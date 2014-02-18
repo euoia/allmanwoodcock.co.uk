@@ -1,0 +1,1 @@
+var im1 = new Image();im1.src = "i/link-image1.jpg";var im2 = new Image();im2.src = "i/link-image2.jpg";var im3 = new Image();im3.src = "i/link-image3.jpg";var im4 = new Image();im4.src = "i/link-image4.jpg";var im5 = new Image();im5.src = "i/link-image5.jpg";var im6 = new Image();im6.src = "i/link-image6.jpg";

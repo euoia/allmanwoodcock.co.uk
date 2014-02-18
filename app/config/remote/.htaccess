@@ -1,0 +1,6 @@
+<IfModule mod_rewrite.c>
+   RewriteEngine on
+   RewriteRule    ^$ app/webroot/    [L]
+   RewriteRule    (.*) app/webroot/$1 [L]
+   AddHandler application/x-httpd-php5 .php .php4 .php3 .ctp.
+</IfModule>

@@ -1,0 +1,449 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+# Generated from file: Revision: 5875 /app/models/datasources/dbo_source.php
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2007-12-18 10:24-0500\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: /models/datasources/dbo_source.php:648
+msgid "SQL Error in model %s:"
+msgstr ""
+
+#: /views/clients/admin_add.ctp:4
+#: /views/large_images/admin_add.ctp:4
+#: /views/large_images/admin_edit.ctp:4
+#: /views/news_items/admin_add.ctp:4
+#: /views/portfolios/admin_add.ctp:4
+#: /views/projects/admin_add.ctp:4
+#: /views/services/admin_add.ctp:4
+#: /views/small_images/admin_add.ctp:6
+#: /views/users/admin_add.ctp:4
+msgid "Add %s"
+msgstr ""
+
+#: /views/clients/admin_add.ctp:4
+#: /views/clients/admin_edit.ctp:4
+#: /views/clients/admin_view.ctp:2;23;24;26
+msgid "Client"
+msgstr ""
+
+#: /views/clients/admin_add.ctp:14
+#: /views/clients/admin_edit.ctp:16
+#: /views/clients/admin_view.ctp:25
+#: /views/large_images/admin_add.ctp:16;17
+#: /views/large_images/admin_edit.ctp:15;16
+#: /views/large_images/admin_index.ctp:62
+#: /views/large_images/admin_view.ctp:37;39
+#: /views/news_items/admin_add.ctp:15;16
+#: /views/news_items/admin_edit.ctp:17;18
+#: /views/news_items/admin_index.ctp:55
+#: /views/news_items/admin_view.ctp:30;32
+#: /views/pages/admin_edit.ctp:78
+#: /views/portfolios/admin_add.ctp:14;15
+#: /views/portfolios/admin_edit.ctp:16;17
+#: /views/portfolios/admin_index.ctp:49
+#: /views/portfolios/admin_view.ctp:20;22
+#: /views/projects/admin_add.ctp:14
+#: /views/projects/admin_edit.ctp:16
+#: /views/projects/admin_view.ctp:20
+#: /views/services/admin_add.ctp:14
+#: /views/services/admin_edit.ctp:16
+#: /views/services/admin_view.ctp:25
+#: /views/small_images/admin_add.ctp:15;16
+#: /views/small_images/admin_index.ctp:48
+#: /views/users/admin_add.ctp:14
+#: /views/users/admin_edit.ctp:16
+#: /views/users/admin_view.ctp:25
+msgid "List %s"
+msgstr ""
+
+#: /views/clients/admin_add.ctp:14
+#: /views/clients/admin_edit.ctp:16
+#: /views/clients/admin_view.ctp:25
+msgid "Clients"
+msgstr ""
+
+#: /views/clients/admin_edit.ctp:4
+#: /views/clients/admin_view.ctp:23
+#: /views/large_images/admin_view.ctp:35
+#: /views/news_items/admin_edit.ctp:4
+#: /views/news_items/admin_view.ctp:28
+#: /views/pages/admin_edit.ctp:38
+#: /views/portfolios/admin_edit.ctp:4
+#: /views/portfolios/admin_view.ctp:18
+#: /views/projects/admin_edit.ctp:4
+#: /views/projects/admin_view.ctp:18
+#: /views/services/admin_edit.ctp:4
+#: /views/services/admin_view.ctp:23
+#: /views/users/admin_edit.ctp:4
+#: /views/users/admin_view.ctp:23
+msgid "Edit %s"
+msgstr ""
+
+#: /views/clients/admin_edit.ctp:15
+#: /views/large_images/admin_index.ctp:48
+#: /views/news_items/admin_edit.ctp:16
+#: /views/news_items/admin_index.ctp:41
+#: /views/pages/admin_edit.ctp:77
+#: /views/portfolios/admin_edit.ctp:15
+#: /views/portfolios/admin_index.ctp:35
+#: /views/portfolios/admin_view.ctp:49
+#: /views/projects/admin_edit.ctp:15
+#: /views/projects/admin_index.ctp:32
+#: /views/services/admin_edit.ctp:15
+#: /views/services/admin_index.ctp:31
+#: /views/small_images/admin_index.ctp:34
+#: /views/users/admin_edit.ctp:15
+#: /views/users/admin_index.ctp:37
+msgid "Delete"
+msgstr ""
+
+#: /views/clients/admin_edit.ctp:15
+#: /views/clients/admin_view.ctp:24
+#: /views/large_images/admin_index.ctp:48
+#: /views/large_images/admin_view.ctp:36
+#: /views/news_items/admin_edit.ctp:16
+#: /views/news_items/admin_index.ctp:41
+#: /views/news_items/admin_view.ctp:29
+#: /views/pages/admin_edit.ctp:77
+#: /views/portfolios/admin_edit.ctp:15
+#: /views/portfolios/admin_index.ctp:35
+#: /views/portfolios/admin_view.ctp:19;49
+#: /views/projects/admin_edit.ctp:15
+#: /views/projects/admin_index.ctp:32
+#: /views/projects/admin_view.ctp:19
+#: /views/services/admin_edit.ctp:15
+#: /views/services/admin_index.ctp:31
+#: /views/services/admin_view.ctp:24
+#: /views/small_images/admin_index.ctp:34
+#: /views/users/admin_edit.ctp:15
+#: /views/users/admin_index.ctp:37
+#: /views/users/admin_view.ctp:24
+msgid "Are you sure you want to delete # %s?"
+msgstr ""
+
+#: /views/clients/admin_view.ctp:4
+#: /views/large_images/admin_view.ctp:4
+#: /views/news_items/admin_view.ctp:4
+#: /views/portfolios/admin_view.ctp:4;31
+#: /views/projects/admin_view.ctp:4
+#: /views/services/admin_view.ctp:4
+#: /views/users/admin_view.ctp:4
+msgid "Id"
+msgstr ""
+
+#: /views/clients/admin_view.ctp:9
+#: /views/portfolios/admin_view.ctp:9
+msgid "Name"
+msgstr ""
+
+#: /views/clients/admin_view.ctp:14
+msgid "Link"
+msgstr ""
+
+#: /views/clients/admin_view.ctp:24
+#: /views/large_images/admin_view.ctp:36
+#: /views/news_items/admin_view.ctp:29
+#: /views/portfolios/admin_view.ctp:19
+#: /views/projects/admin_view.ctp:19
+#: /views/services/admin_view.ctp:24
+#: /views/users/admin_view.ctp:24
+msgid "Delete %s"
+msgstr ""
+
+#: /views/clients/admin_view.ctp:26
+#: /views/large_images/admin_add.ctp:18
+#: /views/large_images/admin_edit.ctp:17
+#: /views/large_images/admin_index.ctp:61;63
+#: /views/large_images/admin_view.ctp:38;40
+#: /views/news_items/admin_add.ctp:17
+#: /views/news_items/admin_edit.ctp:19
+#: /views/news_items/admin_index.ctp:54;56
+#: /views/news_items/admin_view.ctp:31;33
+#: /views/portfolios/admin_add.ctp:16
+#: /views/portfolios/admin_edit.ctp:18
+#: /views/portfolios/admin_index.ctp:48;50
+#: /views/portfolios/admin_view.ctp:21;23;58
+#: /views/projects/admin_index.ctp:45
+#: /views/projects/admin_view.ctp:21
+#: /views/services/admin_index.ctp:44
+#: /views/services/admin_view.ctp:26
+#: /views/small_images/admin_add.ctp:17
+#: /views/small_images/admin_index.ctp:47;49
+#: /views/users/admin_index.ctp:50
+#: /views/users/admin_view.ctp:26
+msgid "New %s"
+msgstr ""
+
+#: /views/elements/admin_navigation.ctp:2
+msgid "clients"
+msgstr ""
+
+#: /views/elements/admin_navigation.ctp:3
+msgid "news"
+msgstr ""
+
+#: /views/elements/admin_navigation.ctp:4
+msgid "portfolio"
+msgstr ""
+
+#: /views/elements/admin_navigation.ctp:5
+msgid "projects"
+msgstr ""
+
+#: /views/elements/admin_navigation.ctp:6
+msgid "services"
+msgstr ""
+
+#: /views/elements/admin_navigation.ctp:7
+msgid "top level pages"
+msgstr ""
+
+#: /views/elements/admin_navigation.ctp:8
+msgid "small images"
+msgstr ""
+
+#: /views/elements/admin_navigation.ctp:9
+msgid "large images"
+msgstr ""
+
+#: /views/large_images/admin_add.ctp:4
+#: /views/large_images/admin_edit.ctp:4
+#: /views/large_images/admin_index.ctp:61
+#: /views/large_images/admin_view.ctp:2;35;36;38
+msgid "LargeImage"
+msgstr "Large Image"
+
+#: /views/large_images/admin_add.ctp:16
+#: /views/large_images/admin_edit.ctp:15
+#: /views/large_images/admin_index.ctp:2
+#: /views/large_images/admin_view.ctp:37
+msgid "LargeImages"
+msgstr "Large Images"
+
+#: /views/large_images/admin_add.ctp:17
+#: /views/large_images/admin_edit.ctp:16
+#: /views/large_images/admin_index.ctp:62
+#: /views/large_images/admin_view.ctp:39
+#: /views/portfolios/admin_add.ctp:15
+#: /views/portfolios/admin_edit.ctp:17
+#: /views/portfolios/admin_index.ctp:49
+#: /views/portfolios/admin_view.ctp:22;27
+#: /views/projects/admin_add.ctp:14
+#: /views/projects/admin_edit.ctp:16
+#: /views/projects/admin_index.ctp:2
+#: /views/projects/admin_view.ctp:20
+msgid "Projects"
+msgstr ""
+
+#: /views/large_images/admin_add.ctp:18
+#: /views/large_images/admin_edit.ctp:17
+#: /views/large_images/admin_index.ctp:63
+#: /views/large_images/admin_view.ctp:19;40
+#: /views/portfolios/admin_add.ctp:16
+#: /views/portfolios/admin_edit.ctp:18
+#: /views/portfolios/admin_index.ctp:50
+#: /views/portfolios/admin_view.ctp:23;58
+#: /views/projects/admin_add.ctp:4
+#: /views/projects/admin_edit.ctp:4
+#: /views/projects/admin_index.ctp:45
+#: /views/projects/admin_view.ctp:2;18;19;21
+msgid "Project"
+msgstr ""
+
+#: /views/large_images/admin_index.ctp:7
+#: /views/news_items/admin_index.ctp:6
+#: /views/users/admin_index.ctp:6
+msgid "Page %page% of %pages%, showing %current% records out of %count% total, starting on record %start%, ending on %end%"
+msgstr ""
+
+#: /views/large_images/admin_index.ctp:17
+#: /views/news_items/admin_index.ctp:15
+#: /views/pages/admin_index.ctp:9
+#: /views/portfolios/admin_index.ctp:8
+#: /views/portfolios/admin_view.ctp:33
+#: /views/projects/admin_index.ctp:9
+#: /views/services/admin_index.ctp:8
+#: /views/small_images/admin_index.ctp:10
+#: /views/users/admin_index.ctp:14
+msgid "Actions"
+msgstr ""
+
+#: /views/large_images/admin_index.ctp:46
+#: /views/news_items/admin_index.ctp:39
+#: /views/pages/admin_index.ctp:34
+#: /views/portfolios/admin_index.ctp:33
+#: /views/portfolios/admin_view.ctp:47
+#: /views/projects/admin_index.ctp:30
+#: /views/services/admin_index.ctp:29
+#: /views/users/admin_index.ctp:35
+msgid "View"
+msgstr ""
+
+#: /views/large_images/admin_index.ctp:47
+#: /views/news_items/admin_index.ctp:40
+#: /views/pages/admin_index.ctp:35
+#: /views/portfolios/admin_index.ctp:34
+#: /views/portfolios/admin_view.ctp:48
+#: /views/projects/admin_index.ctp:31
+#: /views/services/admin_index.ctp:30
+#: /views/users/admin_index.ctp:36
+msgid "Edit"
+msgstr ""
+
+#: /views/large_images/admin_index.ctp:55
+#: /views/news_items/admin_index.ctp:48
+#: /views/pages/admin_index.ctp:42
+#: /views/portfolios/admin_index.ctp:42
+#: /views/projects/admin_index.ctp:39
+#: /views/services/admin_index.ctp:38
+#: /views/small_images/admin_index.ctp:41
+#: /views/users/admin_index.ctp:44
+msgid "previous"
+msgstr ""
+
+#: /views/large_images/admin_index.ctp:57
+#: /views/news_items/admin_index.ctp:50
+#: /views/pages/admin_index.ctp:44
+#: /views/portfolios/admin_index.ctp:44
+#: /views/projects/admin_index.ctp:41
+#: /views/services/admin_index.ctp:40
+#: /views/small_images/admin_index.ctp:43
+#: /views/users/admin_index.ctp:46
+msgid "next"
+msgstr ""
+
+#: /views/large_images/admin_view.ctp:9
+msgid "Url"
+msgstr ""
+
+#: /views/large_images/admin_view.ctp:14
+#: /views/portfolios/admin_view.ctp:32
+#: /views/projects/admin_view.ctp:9
+#: /views/services/admin_view.ctp:9
+msgid "Title"
+msgstr ""
+
+#: /views/large_images/admin_view.ctp:24
+msgid "Preview"
+msgstr ""
+
+#: /views/news_items/admin_add.ctp:4
+#: /views/news_items/admin_edit.ctp:4
+#: /views/news_items/admin_index.ctp:54
+#: /views/news_items/admin_view.ctp:2;28;29;31
+msgid "NewsItem"
+msgstr "News Item"
+
+#: /views/news_items/admin_add.ctp:15
+#: /views/news_items/admin_edit.ctp:17
+#: /views/news_items/admin_index.ctp:2
+#: /views/news_items/admin_view.ctp:30
+msgid "NewsItems"
+msgstr "News Items"
+
+#: /views/news_items/admin_add.ctp:16
+#: /views/news_items/admin_edit.ctp:18
+#: /views/news_items/admin_index.ctp:55
+#: /views/news_items/admin_view.ctp:32
+#: /views/small_images/admin_add.ctp:15
+#: /views/small_images/admin_index.ctp:2
+msgid "SmallImages"
+msgstr "Small Images"
+
+#: /views/news_items/admin_add.ctp:17
+#: /views/news_items/admin_edit.ctp:19
+#: /views/news_items/admin_index.ctp:56
+#: /views/news_items/admin_view.ctp:9;33
+#: /views/small_images/admin_add.ctp:6
+#: /views/small_images/admin_index.ctp:47
+msgid "SmallImage"
+msgstr "Small Image"
+
+#: /views/news_items/admin_view.ctp:14
+msgid "Date"
+msgstr ""
+
+#: /views/news_items/admin_view.ctp:19
+msgid "Text"
+msgstr ""
+
+#: /views/pages/admin_edit.ctp:38
+#: /views/small_images/admin_add.ctp:17
+#: /views/small_images/admin_index.ctp:49
+msgid "Page"
+msgstr ""
+
+#: /views/pages/admin_edit.ctp:78
+#: /views/pages/admin_index.ctp:2
+#: /views/small_images/admin_add.ctp:16
+#: /views/small_images/admin_index.ctp:48
+msgid "Pages"
+msgstr "Top Level Pages"
+
+#: /views/portfolios/admin_add.ctp:4
+#: /views/portfolios/admin_edit.ctp:4
+#: /views/portfolios/admin_index.ctp:48
+#: /views/portfolios/admin_view.ctp:2;18;19;21
+msgid "Portfolio"
+msgstr "Portfolio Item"
+
+#: /views/portfolios/admin_add.ctp:14
+#: /views/portfolios/admin_edit.ctp:16
+#: /views/portfolios/admin_view.ctp:20
+msgid "Portfolios"
+msgstr "Portfolio Items"
+
+#: /views/portfolios/admin_view.ctp:27
+msgid "Related %s"
+msgstr ""
+
+#: /views/services/admin_add.ctp:4
+#: /views/services/admin_edit.ctp:4
+#: /views/services/admin_index.ctp:44
+#: /views/services/admin_view.ctp:2;23;24;26
+msgid "Service"
+msgstr ""
+
+#: /views/services/admin_add.ctp:14
+#: /views/services/admin_edit.ctp:16
+#: /views/services/admin_view.ctp:25
+msgid "Services"
+msgstr ""
+
+#: /views/services/admin_view.ctp:14
+msgid "Description"
+msgstr ""
+
+#: /views/users/admin_add.ctp:4
+#: /views/users/admin_edit.ctp:4
+#: /views/users/admin_index.ctp:50
+#: /views/users/admin_view.ctp:2;23;24;26
+msgid "User"
+msgstr ""
+
+#: /views/users/admin_add.ctp:14
+#: /views/users/admin_edit.ctp:16
+#: /views/users/admin_index.ctp:2
+#: /views/users/admin_view.ctp:25
+msgid "Users"
+msgstr ""
+
+#: /views/users/admin_view.ctp:9
+msgid "Username"
+msgstr ""
+
+#: /views/users/admin_view.ctp:14
+msgid "Password"
+msgstr ""
+

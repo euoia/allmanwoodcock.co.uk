@@ -1,0 +1,13 @@
+input[type=checkbox] {
+	height: 30px;
+	left: auto;
+}
+
+label {
+	width: auto;
+	height: 30px;
+	vertical-align: middle;
+	margin-left: 20px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}

@@ -1,0 +1,15 @@
+<?php
+	class AwHelper extends Helper
+	{
+	function service_encode($service)
+	{
+		$service = str_replace("'", "", $service);
+		$service = str_replace(" ", "-", $service);
+		$service = str_replace("/", "and", $service);
+		$service = strtolower($service);
+		
+		return $service;
+	}
+	}
+?>
+

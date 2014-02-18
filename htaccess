@@ -1,0 +1,8 @@
+AddHandler x-httpd-php .php .htm .html .phtml
+<IfModule mod_rewrite.c>
+   RewriteEngine on
+	RewriteCond %{REQUEST_URI} !^/stats
+   RewriteRule ^$ app/webroot/ [L]
+ 	RewriteCond %{REQUEST_URI} !^/stats
+	RewriteRule (.*) app/webroot/$1 [L]
+</IfModule>

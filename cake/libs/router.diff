@@ -1,0 +1,14 @@
+--- router.php
++++ (clipboard)
+@@ -504,6 +504,10 @@
+ 		}
+ 		$_this->connect('/:controller/:action/*');
+ 
++    if (empty($_this->__namedArgs)) {
++		  $_this->connectNamed(array('page', 'fields', 'order', 'limit', 'recursive', 'sort', 'direction', 'step'));
++		}
++
+ 		$_this->__defaultsMapped = true;
+ 	}
+ /**
+

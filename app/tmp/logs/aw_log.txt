@@ -1,0 +1,1087 @@
+15-02-08 09:47:38    rachel        logged in.
+15-02-08 10:03:18    rachel        Small Image deleted: #11 (Image_Coming_Soon.jpg)
+15-02-08 10:04:32    rachel        Small Image added: #13 (Image_Coming_Soon.jpg)
+15-02-08 10:04:47    rachel        News Item edited: #2
+15-02-08 10:11:35    rachel        Small Image deleted: #13 (Image_Coming_Soon.jpg)
+15-02-08 10:12:27    rachel        logged out.
+15-02-08 10:12:59    rachel        logged in.
+15-02-08 10:13:56    rachel        Small Image added: #14 (Image_Coming_Soon4News.jpg)
+15-02-08 10:14:22    rachel        News Item edited: #2
+15-02-08 10:23:45    rachel        logged out.
+15-02-08 10:24:19    rachel        logged in.
+15-02-08 10:24:32    rachel        logged out.
+15-02-08 11:01:13    rachel        logged in.
+15-02-08 11:02:48    rachel        logged out.
+15-02-08 11:25:56    rachel        logged in.
+15-02-08 11:29:54    rachel        logged out.
+21-02-08 15:16:10    rachel        logged in.
+21-02-08 15:22:32    rachel        Small Image added: #15 (All.jpg)
+21-02-08 15:22:44    rachel        Small Image deleted: #15 (All.jpg)
+21-02-08 15:22:54    rachel        Small Image added: #16 (Team QED.jpg)
+21-02-08 15:27:48    rachel        News Item added: #3
+21-02-08 15:28:29    rachel        News Item edited: #2
+21-02-08 15:29:18    rachel        News Item edited: #3
+21-02-08 15:33:13    rachel        logged out.
+25-02-08 16:22:21    rachel        logged in.
+25-02-08 16:23:43    rachel        News Item edited: #3
+25-02-08 16:24:36    rachel        News Item edited: #3
+25-02-08 16:50:03    rachel        logged out.
+28-02-08 20:41:10    james         logged in.
+28-02-08 20:43:47    james         Small Image deleted: #14 (Image_Coming_Soon4News.jpg)
+28-02-08 20:48:44    james         Small Image deleted: #16 (Team QED.jpg)
+28-02-08 20:48:48    james         Small Image deleted: #12 (tick-button.jpg)
+03-03-08 14:24:23    rachel        logged in.
+03-03-08 14:41:37    rachel        logged out.
+03-03-08 16:19:24    rachel        logged in.
+03-03-08 16:19:47    rachel        logged out.
+03-03-08 19:45:14    james         logged in.
+03-03-08 20:13:36    james         News Item edited: #3
+03-03-08 21:17:06    james         logged in.
+03-03-08 23:53:43    james         logged in.
+04-03-08 08:56:34    rachel        logged in.
+04-03-08 08:57:49    rachel        Page edited: #5 (Allman Woodcock - News)
+04-03-08 09:00:26    rachel        Small Image added: #17 (Team QED.jpg)
+04-03-08 09:00:41    rachel        Small Image deleted: #17 (Team QED.jpg)
+04-03-08 09:01:02    rachel        Small Image added: #18 (Team_QED.jpg)
+04-03-08 09:01:25    rachel        Small Image added: #19 (Image_Coming_Soon4News.jpg)
+04-03-08 09:01:44    rachel        News Item edited: #3
+04-03-08 09:01:56    rachel        News Item edited: #2
+04-03-08 09:42:00    rachel        News Item edited: #3
+04-03-08 09:42:13    rachel        News Item edited: #2
+04-03-08 09:57:53    rachel        logged out.
+04-03-08 10:47:20    rachel        logged in.
+04-03-08 11:48:21    rachel        logged out.
+04-03-08 12:21:27    rachel        logged in.
+04-03-08 13:13:37    rachel        logged out.
+04-03-08 19:39:48    james         logged in.
+05-03-08 14:01:29    rachel        logged in.
+05-03-08 14:27:31    rachel        News Item edited: #3
+05-03-08 14:29:53    rachel        News Item edited: #3
+05-03-08 14:35:09    rachel        News Item edited: #3
+05-03-08 14:35:56    rachel        News Item edited: #2
+05-03-08 14:40:24    rachel        News Item edited: #3
+05-03-08 14:42:02    rachel        News Item edited: #3
+05-03-08 14:51:39    rachel        News Item edited: #3
+05-03-08 14:54:34    rachel        News Item edited: #3
+05-03-08 14:54:55    rachel        News Item edited: #3
+05-03-08 14:55:08    rachel        News Item edited: #2
+05-03-08 14:55:29    rachel        News Item edited: #2
+05-03-08 14:58:47    rachel        News Item edited: #2
+05-03-08 14:59:19    rachel        News Item edited: #3
+05-03-08 15:05:54    rachel        Page edited: #6 (Allman Woodcock - Contact Us)
+05-03-08 15:08:47    rachel        Page edited: #6 (Allman Woodcock - Contact Us)
+05-03-08 15:09:57    rachel        Page edited: #6 (Allman Woodcock - Contact Us)
+05-03-08 15:11:09    rachel        Page edited: #6 (Allman Woodcock - Contact Us)
+05-03-08 16:54:58    rachel        logged out.
+05-03-08 21:40:52    james         logged in.
+06-03-08 09:20:30    rachel        logged in.
+06-03-08 09:53:47    rachel        Small Image deleted: #19 (Image_Coming_Soon4News.jpg)
+06-03-08 09:54:51    rachel        Small Image added: #20 (Image_Coming_Soon.jpg)
+06-03-08 09:55:16    rachel        News Item edited: #2
+06-03-08 10:05:44    rachel        logged out.
+06-03-08 12:12:35    rachel        logged in.
+06-03-08 12:13:25    rachel        Page edited: #6 (Allman Woodcock - Contact Us)
+06-03-08 13:08:23    rachel        logged out.
+06-03-08 22:20:18    james         logged in.
+06-03-08 22:21:15    james         News Item edited: #3
+06-03-08 22:22:09    james         News Item edited: #3
+06-03-08 22:24:02    james         News Item edited: #3
+06-03-08 22:24:58    james         News Item edited: #3
+09-03-08 22:01:30    james         logged in.
+10-03-08 19:06:04    james         logged in.
+10-03-08 19:16:45    james         Page edited: #6 (Allman Woodcock - Contact Us)
+13-03-08 21:59:03    james         logged in.
+13-03-08 22:01:21    james         Page edited: #1 (Welcome to Allman Woodcock)
+13-03-08 22:03:54    james         News Item added: #4
+13-03-08 22:04:25    james         News Item edited: #4
+20-03-08 15:31:53    rachel        logged in.
+20-03-08 15:51:01    rachel        Small Image added: #21 (Birmingham_Office.jpg)
+20-03-08 15:52:19    rachel        News Item edited: #4
+20-03-08 15:52:30    rachel        logged out.
+20-03-08 15:56:44    rachel        logged in.
+20-03-08 15:57:40    rachel        News Item edited: #4
+20-03-08 15:57:45    rachel        logged out.
+22-03-08 15:27:59    james         logged in.
+22-03-08 15:30:43    james         logged out.
+09-04-08 10:46:39    rachel        logged in.
+09-04-08 10:48:27    rachel        Client deleted: #10 (Bluestone Plc)
+09-04-08 10:48:41    rachel        Client added: #27 (Morgan Ashurst)
+09-04-08 10:48:58    rachel        logged out.
+18-04-08 09:53:00    rachel        logged in.
+18-04-08 09:53:26    rachel        logged out.
+22-05-08 22:30:10    james         logged in.
+22-05-08 22:39:48    james         Page edited: #1 (Welcome to Allman Woodcock)
+22-05-08 22:40:40    james         Page edited: #1 (Welcome to Allman Woodcock)
+22-05-08 22:45:56    james         logged out.
+27-05-08 14:57:41    rachel        logged in.
+27-05-08 14:59:51    rachel        Project edited: #11 (Prince Of Wales Road)
+27-05-08 16:11:20    rachel        logged out.
+28-05-08 15:54:46    Rachel        logged in.
+28-05-08 15:55:24    Rachel        Small Image added: #22 (Sm_Poringland_Library.jpg)
+28-05-08 15:55:48    Rachel        Small Image added: #23 (Sm_Witney.jpg)
+28-05-08 15:56:03    Rachel        Small Image added: #24 (Sm_Zero_Carbon_Hse.jpg)
+28-05-08 15:57:55    Rachel        News Item added: #5
+28-05-08 16:01:39    Rachel        News Item added: #6
+28-05-08 16:03:47    Rachel        News Item added: #7
+28-05-08 16:04:44    Rachel        logged out.
+30-05-08 11:16:20    rachel        logged in.
+30-05-08 11:20:27    rachel        logged out.
+14-08-08 09:45:55    rachel        logged in.
+14-08-08 09:48:55    rachel        News Item added: #8
+14-08-08 09:49:34    rachel        logged out.
+26-08-08 12:11:42    rachel        logged in.
+26-08-08 12:13:50    rachel        logged out.
+26-08-08 12:14:28    rachel        logged in.
+26-08-08 12:16:39    rachel        logged out.
+28-08-08 11:50:57    rachel        logged in.
+28-08-08 11:51:17    rachel        News Item deleted: #8
+28-08-08 11:51:25    rachel        logged out.
+05-09-08 17:57:05    james         logged in.
+23-09-08 12:04:20    rachel        logged in.
+23-09-08 12:05:06    rachel        logged out.
+11-11-08 16:04:19    rachel        logged in.
+11-11-08 16:06:34    rachel        News Item added: #9
+11-11-08 16:21:05    rachel        Small Image added: #25 (sm_wymondham_library.jpg)
+11-11-08 16:23:11    rachel        News Item added: #10
+11-11-08 16:24:17    rachel        logged out.
+13-11-08 16:02:51    rachel        logged in.
+13-11-08 16:03:46    rachel        News Item edited: #10
+13-11-08 16:05:02    rachel        News Item added: #11
+13-11-08 16:05:15    rachel        logged out.
+17-11-08 16:56:29    rachel        logged in.
+17-11-08 16:58:09    rachel        logged out.
+18-11-08 10:17:55    rachel        logged in.
+18-11-08 10:19:05    rachel        logged out.
+18-11-08 10:19:27    rachel        logged in.
+18-11-08 10:20:18    rachel        logged out.
+26-11-08 09:27:11    rachel        logged in.
+26-11-08 10:25:23    rachel        Large Image added: #73 (Poringland_Library_01a.jpg)
+26-11-08 10:27:01    rachel        Large Image added: #74 (Poringland_Library_02a.jpg)
+26-11-08 10:27:28    rachel        Large Image added: #75 (Poringland_Library_03c.jpg)
+26-11-08 10:28:28    rachel        Large Image edited: #41 (Poringland Library 02.jpg)
+26-11-08 10:28:48    rachel        Large Image edited: #40 (Poringland Library 01.jpg)
+26-11-08 11:13:14    rachel        Large Image added: #76 (Wymondham_Library_01a.jpg)
+26-11-08 11:14:04    rachel        Large Image added: #77 (Wymondham_Library_02b.jpg)
+26-11-08 11:14:30    rachel        Large Image added: #78 (Wymondham_Library_03c.jpg)
+26-11-08 11:14:54    rachel        Large Image added: #79 (Wymondham_Library_04d.jpg)
+26-11-08 11:16:23    rachel        Large Image edited: #59 (Wymondham Library 02.jpg)
+26-11-08 11:17:01    rachel        Large Image edited: #58 (Wymondham Library 01.jpg)
+26-11-08 11:37:15    rachel        Large Image added: #80 (Sprowston_High_School_01a.jpg)
+26-11-08 11:37:47    rachel        Large Image added: #81 (Sprowston_High_School_02b.jpg)
+26-11-08 11:38:04    rachel        Large Image edited: #72 (Sprowston High School 02.jpg)
+26-11-08 11:38:29    rachel        Large Image edited: #70 (Sprowston High School 01.jpg)
+26-11-08 11:42:16    rachel        Project edited: #17 (Sprowston High School)
+26-11-08 11:45:49    rachel        Project added: #18 (Zero Carbon Home, Birmingham)
+26-11-08 11:46:15    rachel        Project edited: #18 (Tindall Street)
+26-11-08 11:51:52    rachel        Large Image added: #82 (Tindal_Street_01.jpg)
+26-11-08 11:52:20    rachel        Large Image added: #83 (Tindal_Street_02.jpg)
+26-11-08 11:53:09    rachel        logged out.
+26-11-08 11:55:39    rachel        logged in.
+26-11-08 11:56:40    rachel        Portfolio edited: #2 (Education)
+26-11-08 11:56:57    rachel        Portfolio edited: #7 (Sustainable Development)
+26-11-08 12:04:44    rachel        Large Image edited: #82 (Tindall Street 01)
+26-11-08 12:06:37    rachel        Portfolio deleted: #7 (Sustainable Development)
+26-11-08 12:07:13    rachel        Portfolio added: #9 (Sustainable Development)
+26-11-08 12:07:51    rachel        Project edited: #18 (Tindall Street)
+26-11-08 12:08:30    rachel        Large Image edited: #82 (Tindall Street 01)
+26-11-08 12:08:47    rachel        Portfolio edited: #9 (Sustainable Development)
+26-11-08 12:08:52    rachel        logged out.
+26-11-08 12:10:18    rachel        logged in.
+26-11-08 12:11:03    rachel        Large Image deleted: #83 (Tindal_Street_02.jpg)
+26-11-08 12:11:14    rachel        Large Image deleted: #82 (Tindal_Street_01.jpg)
+26-11-08 12:12:40    rachel        logged out.
+26-11-08 12:13:02    rachel        logged in.
+26-11-08 12:17:17    rachel        logged out.
+26-11-08 12:18:56    rachel        logged in.
+26-11-08 12:19:22    rachel        Portfolio edited: #9 (Sustainable Development)
+26-11-08 12:21:07    rachel        Large Image added: #84 (Tindal_St_01.jpg)
+26-11-08 12:21:37    rachel        Large Image added: #85 (Tindal_St_02.jpg)
+26-11-08 12:22:13    rachel        Portfolio edited: #9 (Sustainable Development)
+26-11-08 12:22:20    rachel        logged out.
+26-11-08 12:24:25    rachel        logged in.
+26-11-08 12:24:43    rachel        Portfolio edited: #9 (Sustainable Development)
+26-11-08 12:35:54    rachel        logged out.
+01-12-08 23:31:10    james         logged in.
+01-12-08 23:34:32    james         Portfolio edited: #9 (Sustainable Development)
+02-12-08 10:27:13    rachel        logged in.
+02-12-08 10:27:33    rachel        logged out.
+02-12-08 19:43:21    james         logged in.
+03-12-08 10:46:56    rachel        logged in.
+03-12-08 10:47:35    rachel        Large Image deleted: #63 (Water lilies.jpg)
+03-12-08 10:51:09    rachel        logged out.
+06-01-09 12:17:39    rachel        logged in.
+06-01-09 12:17:50    rachel        logged out.
+08-01-09 15:00:44    rachel        logged in.
+08-01-09 15:09:24    rachel        Small Image added: #26 (BH_xmas_party.jpg)
+08-01-09 15:11:59    rachel        News Item added: #12
+08-01-09 15:13:23    rachel        logged out.
+15-01-09 12:03:58    rachel        logged in.
+15-01-09 12:12:16    rachel        Small Image added: #27 (Tindal_St_02.jpg)
+15-01-09 12:20:25    rachel        News Item added: #13
+15-01-09 12:21:43    rachel        News Item edited: #13
+15-01-09 12:22:08    rachel        News Item edited: #13
+15-01-09 12:22:42    rachel        logged out.
+28-01-09 10:46:36    rachel        logged in.
+28-01-09 10:51:01    rachel        logged out.
+19-03-09 12:32:14    rachel        logged in.
+19-03-09 12:35:07    rachel        logged out.
+24-03-09 20:58:36    james         logged in.
+05-10-09 14:06:05    rachel        logged in.
+05-10-09 14:08:53    rachel        Page edited: #1 (Welcome to Allman Woodcock)
+05-10-09 14:14:16    rachel        Client edited: #4 (City College Norwich)
+05-10-09 14:14:55    rachel        Client edited: #3 (Associated Architects)
+05-10-09 14:15:31    rachel        Client edited: #14 (DFAL Ltd)
+05-10-09 14:15:57    rachel        Client edited: #15 (Europarc Consulting)
+05-10-09 14:16:21    rachel        Client edited: #17 (Fielden & Mawson)
+05-10-09 14:16:40    rachel        Client edited: #12 (Galiford Try, Birmingham & Warrington)
+05-10-09 14:17:08    rachel        Client edited: #19 (Leathes Prior)
+05-10-09 14:17:40    rachel        Client edited: #21 (The Diocese of Worcester)
+05-10-09 14:17:57    rachel        Client edited: #23 (The Greek Orthodox Church)
+05-10-09 14:19:46    rachel        Client edited: #18 (Lambert Bardsley Reeve)
+05-10-09 15:46:01    rachel        logged out.
+06-10-09 07:45:21    rachel        logged in.
+06-10-09 08:46:08    rachel        logged out.
+18-11-09 10:57:44    rachel        logged in.
+18-11-09 11:12:59    rachel        Small Image added: #28 (sm_frankDavey.jpg)
+18-11-09 11:18:56    rachel        News Item added: #15
+18-11-09 11:26:23    rachel        News Item edited: #15
+18-11-09 11:26:35    rachel        Small Image deleted: #28 (sm_frankDavey.jpg)
+18-11-09 11:26:58    rachel        Small Image added: #29 (sm_frank_Davey.jpg)
+18-11-09 11:27:17    rachel        News Item edited: #15
+18-11-09 12:16:10    rachel        Small Image added: #30 (sm_FANN09.jpg)
+18-11-09 12:20:36    rachel        News Item added: #16
+18-11-09 12:20:52    rachel        logged out.
+18-11-09 12:31:28    rachel        logged in.
+18-11-09 12:46:06    rachel        logged out.
+18-11-09 14:05:53    rachel        logged in.
+18-11-09 16:01:35    rachel        Large Image edited: #15 (Costessey Primary School 01.jpg)
+18-11-09 16:01:51    rachel        Large Image edited: #16 (Costessey Primary School 02.jpg)
+18-11-09 16:02:22    rachel        Project added: #19 (Queens Hill Primary School)
+18-11-09 16:02:36    rachel        Project deleted: #3 (Costessey Primary School)
+18-11-09 16:03:50    rachel        Large Image added: #86 (Queen_Hill_Primary_Ext_01.jpg)
+18-11-09 16:04:22    rachel        Large Image added: #87 (Queen_Hill_Primary_Ext_02.jpg)
+18-11-09 16:04:44    rachel        Large Image added: #88 (Queen_Hill_Primary_Ext_03.jpg)
+18-11-09 16:05:01    rachel        Large Image added: #89 (Queen_Hill_Primary_Int_01.jpg)
+18-11-09 16:05:21    rachel        Large Image added: #90 (Queen_Hill_Primary_Int_02.jpg)
+18-11-09 16:05:42    rachel        Large Image added: #91 (Queen_Hill_Primary_Int_03.jpg)
+18-11-09 16:06:01    rachel        Large Image added: #92 (Queen_Hill_Primary_Int_04.jpg)
+18-11-09 16:06:25    rachel        Portfolio edited: #2 (Education)
+18-11-09 16:06:55    rachel        Portfolio edited: #2 (Education)
+18-11-09 16:10:34    rachel        Portfolio added: #10 (Commerical)
+18-11-09 16:10:47    rachel        Portfolio edited: #10 (Commercial)
+18-11-09 16:11:31    rachel        Project added: #20 (Middleton House)
+18-11-09 16:13:32    rachel        Large Image added: #93 (Middleton_House.jpg)
+18-11-09 16:13:50    rachel        Project edited: #20 (Middleton House)
+18-11-09 16:14:12    rachel        Large Image edited: #93 (Middleton House)
+18-11-09 16:15:29    rachel        Portfolio edited: #10 (Commercial)
+18-11-09 16:16:57    rachel        Large Image edited: #77 (Wymondham Library 02b)
+18-11-09 16:17:26    rachel        Large Image edited: #76 (Wymondham Library 01a)
+18-11-09 16:19:47    rachel        Large Image edited: #78 (Wymondham Library 3c)
+18-11-09 16:20:02    rachel        Large Image edited: #79 (Wymondham Library 04d)
+18-11-09 16:20:49    rachel        Large Image added: #94 (Wymondham_Library_Ext_01.jpg)
+18-11-09 16:21:18    rachel        Large Image added: #95 (Wymondham_Library_Ext_02.jpg)
+18-11-09 16:21:40    rachel        Large Image added: #96 (Wymondham_Library_Ext_03.jpg)
+18-11-09 16:22:03    rachel        Large Image added: #97 (Wymondham_Library_Int_01.jpg)
+18-11-09 16:22:24    rachel        Large Image added: #98 (Wymondham_Library_Int_02.jpg)
+18-11-09 16:22:43    rachel        Large Image added: #99 (Wymondham_Library_Int_03.jpg)
+18-11-09 16:23:06    rachel        Large Image added: #100 (Wymondham_Library_Int_04.jpg)
+18-11-09 16:33:09    rachel        logged out.
+24-11-09 03:20:23    james         logged in.
+24-11-09 03:25:27    james         logged out.
+24-11-09 03:26:24    james         logged in.
+24-11-09 09:14:02    rachel        logged in.
+24-11-09 09:51:13    rachel        logged out.
+24-11-09 12:33:59    james         logged in.
+24-11-09 12:34:42    james         Page edited: #5 (Allman Woodcock - News)
+24-11-09 12:35:22    james         Page edited: #5 (Allman Woodcock - News)
+24-11-09 12:36:03    james         Page edited: #5 (Allman Woodcock - News)
+24-11-09 12:37:32    james         Page edited: #5 (Allman Woodcock - News)
+24-11-09 12:37:57    james         Page edited: #5 (Allman Woodcock - News)
+24-11-09 15:33:26    rachel        logged in.
+24-11-09 15:34:54    rachel        logged out.
+26-11-09 16:05:43    rachel        logged in.
+26-11-09 16:07:54    rachel        Page edited: #5 (Allman Woodcock - News)
+26-11-09 16:18:14    rachel        Page edited: #5 (Allman Woodcock - News)
+26-11-09 16:20:23    rachel        Page edited: #5 (Allman Woodcock - News)
+26-11-09 16:22:43    rachel        Page edited: #5 (Allman Woodcock - News)
+26-11-09 16:22:53    rachel        logged out.
+26-11-09 16:23:39    rachel        logged in.
+26-11-09 16:24:42    rachel        Page edited: #5 (Allman Woodcock - News)
+26-11-09 16:24:53    rachel        Page edited: #5 (Allman Woodcock - News)
+26-11-09 16:26:58    rachel        Page edited: #5 (Allman Woodcock - News)
+26-11-09 16:28:00    rachel        Page edited: #5 (Allman Woodcock - News)
+26-11-09 16:28:58    rachel        Page edited: #5 (Allman Woodcock - News)
+26-11-09 16:29:41    rachel        Page edited: #5 (Allman Woodcock - News)
+26-11-09 16:34:39    rachel        Page edited: #5 (Allman Woodcock - News)
+26-11-09 16:35:51    rachel        Page edited: #5 (Allman Woodcock - News)
+26-11-09 16:36:32    rachel        Page edited: #5 (Allman Woodcock - News)
+26-11-09 16:37:53    rachel        Page edited: #5 (Allman Woodcock - News)
+26-11-09 16:38:58    rachel        Page edited: #5 (Allman Woodcock - News)
+26-11-09 16:39:37    rachel        Page edited: #5 (Allman Woodcock - News)
+26-11-09 16:40:43    rachel        logged out.
+26-11-09 16:52:58    rachel        logged in.
+26-11-09 16:54:10    rachel        Page edited: #5 (Allman Woodcock - News)
+26-11-09 16:55:19    rachel        Page edited: #5 (Allman Woodcock - News)
+26-11-09 16:55:55    rachel        Page edited: #5 (Allman Woodcock - News)
+26-11-09 16:56:21    rachel        Page edited: #5 (Allman Woodcock - News)
+26-11-09 16:56:39    rachel        logged out.
+27-11-09 10:09:14    rachel        logged in.
+27-11-09 10:10:41    rachel        Page edited: #5 (Allman Woodcock - News)
+27-11-09 10:13:33    rachel        logged out.
+19-01-10 14:38:25    rachel        logged in.
+19-01-10 14:42:33    rachel        News Item added: #17
+19-01-10 15:09:47    rachel        Page edited: #5 (Allman Woodcock - News)
+19-01-10 15:11:23    rachel        Page edited: #5 (Allman Woodcock - News)
+19-01-10 15:13:11    rachel        Page edited: #5 (Allman Woodcock - News)
+19-01-10 15:15:18    rachel        Page edited: #5 (Allman Woodcock - News)
+19-01-10 15:18:15    rachel        Page edited: #5 (Allman Woodcock - News)
+19-01-10 15:18:40    rachel        Page edited: #5 (Allman Woodcock - News)
+19-01-10 15:19:28    rachel        Page edited: #5 (Allman Woodcock - News)
+19-01-10 15:20:44    rachel        Page edited: #5 (Allman Woodcock - News)
+19-01-10 15:22:14    rachel        Page edited: #5 (Allman Woodcock - News)
+19-01-10 15:22:56    rachel        Page edited: #5 (Allman Woodcock - News)
+19-01-10 15:32:41    rachel        Page edited: #5 (Allman Woodcock - News)
+19-01-10 15:33:59    rachel        Page edited: #5 (Allman Woodcock - News)
+19-01-10 15:34:31    rachel        Page edited: #5 (Allman Woodcock - News)
+19-01-10 15:34:59    rachel        Page edited: #5 (Allman Woodcock - News)
+19-01-10 15:35:41    rachel        Page edited: #5 (Allman Woodcock - News)
+19-01-10 15:35:48    rachel        logged out.
+19-01-10 15:36:26    rachel        logged in.
+19-01-10 15:41:14    rachel        Page edited: #5 (Allman Woodcock - News)
+19-01-10 15:42:21    rachel        Page edited: #5 (Allman Woodcock - News)
+19-01-10 15:51:20    rachel        Page edited: #5 (Allman Woodcock - News)
+19-01-10 15:52:42    rachel        Page edited: #5 (Allman Woodcock - News)
+19-01-10 15:52:57    rachel        logged out.
+19-01-10 16:12:49    rachel        logged in.
+19-01-10 16:13:10    rachel        Page edited: #5 (Allman Woodcock - News)
+19-01-10 16:13:42    rachel        Page edited: #5 (Allman Woodcock - News)
+19-01-10 16:13:46    rachel        logged out.
+19-01-10 16:16:39    rachel        logged in.
+19-01-10 16:17:17    rachel        Page edited: #5 (Allman Woodcock - News)
+19-01-10 16:18:27    rachel        Page edited: #5 (Allman Woodcock - News)
+19-01-10 16:19:55    rachel        Page edited: #5 (Allman Woodcock - News)
+19-01-10 16:20:30    rachel        Page edited: #5 (Allman Woodcock - News)
+19-01-10 16:20:41    rachel        logged out.
+19-01-10 16:20:55                  logged out.
+19-01-10 16:21:19    rachel        logged in.
+19-01-10 16:21:44    rachel        Page edited: #5 (Allman Woodcock - News)
+19-01-10 16:23:38    rachel        Page edited: #5 (Allman Woodcock - News)
+19-01-10 16:23:42    rachel        logged out.
+20-01-10 09:08:28    rachel        logged in.
+20-01-10 09:10:08    rachel        Page edited: #5 (Allman Woodcock - News)
+20-01-10 10:08:14    rachel        logged out.
+21-01-10 02:12:15    james         logged in.
+21-01-10 09:31:31    rachel        logged in.
+21-01-10 09:31:53    rachel        Page edited: #5 (Allman Woodcock - News)
+21-01-10 09:32:37    rachel        Page edited: #5 (Allman Woodcock - News)
+21-01-10 09:32:59    rachel        Page edited: #4 (Allman Woodcock - Portfolio)
+21-01-10 09:33:11    rachel        Page edited: #4 (Allman Woodcock - Portfolio)
+21-01-10 09:37:16    rachel        Page edited: #5 (Allman Woodcock - News)
+21-01-10 09:48:36    rachel        logged out.
+21-01-10 09:49:10    rachel        logged in.
+21-01-10 09:50:31    rachel        Page edited: #5 (Allman Woodcock - News)
+21-01-10 09:51:24    rachel        Page edited: #5 (Allman Woodcock - News)
+21-01-10 09:54:32    rachel        logged out.
+22-01-10 00:36:10    james         logged in.
+22-01-10 00:36:23    james         Page edited: #5 (Allman Woodcock - News)
+22-01-10 00:42:55    james         Page edited: #5 (Allman Woodcock - News)
+22-01-10 09:30:37    rachel        logged in.
+22-01-10 09:31:17    rachel        logged out.
+15-02-10 10:17:09    rachel        logged in.
+15-02-10 10:23:27    rachel        News Item added: #18
+15-02-10 10:28:19    rachel        Page edited: #5 (Allman Woodcock - News)
+15-02-10 10:28:46    rachel        logged out.
+15-02-10 10:29:55    rachel        logged in.
+15-02-10 10:30:15    rachel        News Item edited: #18
+15-02-10 10:30:19    rachel        logged out.
+30-03-10 11:15:21    rachel        logged in.
+30-03-10 11:54:49    rachel        Page edited: #5 (Allman Woodcock - News)
+30-03-10 11:58:38    rachel        Page edited: #5 (Allman Woodcock - News)
+30-03-10 11:59:26    rachel        Page edited: #5 (Allman Woodcock - News)
+30-03-10 12:00:59    rachel        News Item added: #19
+30-03-10 12:02:36    rachel        logged out.
+12-04-10 14:46:26    rachel        logged in.
+12-04-10 14:46:52    rachel        Page edited: #1 (Welcome to Allman Woodcock)
+12-04-10 14:46:55    rachel        logged out.
+26-04-10 12:06:43    rachel        logged in.
+26-04-10 12:25:21    rachel        Page edited: #5 (Allman Woodcock - News)
+26-04-10 12:27:19    rachel        Page edited: #5 (Allman Woodcock - News)
+26-04-10 12:39:00    rachel        Page edited: #5 (Allman Woodcock - News)
+26-04-10 12:39:37    rachel        Page edited: #5 (Allman Woodcock - News)
+26-04-10 12:41:32    rachel        Page edited: #5 (Allman Woodcock - News)
+26-04-10 12:43:28    rachel        Page edited: #5 (Allman Woodcock - News)
+26-04-10 12:46:30    rachel        Page edited: #5 (Allman Woodcock - News)
+26-04-10 12:55:06    rachel        Page edited: #5 (Allman Woodcock - News)
+26-04-10 12:55:50    rachel        Page edited: #5 (Allman Woodcock - News)
+26-04-10 12:56:53    rachel        Page edited: #5 (Allman Woodcock - News)
+26-04-10 12:57:03    rachel        logged out.
+26-04-10 14:01:33    rachel        logged in.
+26-04-10 14:16:29    rachel        Page edited: #5 (Allman Woodcock - News)
+26-04-10 14:18:18    rachel        Page edited: #5 (Allman Woodcock - News)
+26-04-10 14:19:06    rachel        Page edited: #5 (Allman Woodcock - News)
+26-04-10 14:20:03    rachel        Page edited: #5 (Allman Woodcock - News)
+26-04-10 14:20:45    rachel        Page edited: #5 (Allman Woodcock - News)
+26-04-10 14:26:10    rachel        Page edited: #5 (Allman Woodcock - News)
+26-04-10 14:26:39    rachel        logged out.
+26-04-10 14:59:54    rachel        logged in.
+26-04-10 15:00:18    rachel        Page edited: #5 (Allman Woodcock - News)
+26-04-10 15:00:47    rachel        Page edited: #5 (Allman Woodcock - News)
+26-04-10 15:01:40    rachel        Page edited: #5 (Allman Woodcock - News)
+26-04-10 15:02:11    rachel        Page edited: #5 (Allman Woodcock - News)
+26-04-10 15:02:45    rachel        logged out.
+17-05-10 09:46:00    rachel        logged in.
+17-05-10 09:48:11    rachel        Page edited: #5 (Allman Woodcock - News)
+17-05-10 09:50:30    rachel        logged out.
+22-06-10 08:44:52    rachel        logged in.
+22-06-10 10:17:01    rachel        logged out.
+22-06-10 12:33:46    rachel        logged in.
+22-06-10 12:35:11    rachel        Project added: #21 (Florence Hayes)
+22-06-10 12:36:18    rachel        Large Image added: #101 (Florence_Hayes_01a.jpg)
+22-06-10 12:36:57    rachel        Large Image added: #102 (Florence_Hayes_01b.jpg)
+22-06-10 12:37:22    rachel        Large Image added: #103 (Florence_Hayes_01c.jpg)
+22-06-10 12:37:58    rachel        Large Image added: #104 (Florence_Hayes_01d.jpg)
+22-06-10 12:38:38    rachel        Large Image edited: #101 (Florecen_Hayes_01a.jpg)
+22-06-10 12:39:34    rachel        Portfolio edited: #4 (Leisure and Retail)
+22-06-10 12:40:03    rachel        Portfolio edited: #4 (Leisure and Retail)
+22-06-10 12:40:12    rachel        logged out.
+22-06-10 12:46:05    rachel        logged in.
+22-06-10 12:47:50    rachel        Large Image edited: #5 (Cawston Park 05.jpg)
+22-06-10 12:48:10    rachel        Large Image edited: #13 (Cedar House 08.jpg)
+22-06-10 12:48:38    rachel        Large Image edited: #16 (Costessey Primary School 02.jpg)
+22-06-10 12:49:43    rachel        Large Image edited: #22 (George Street 04.jpg)
+22-06-10 12:50:19    rachel        Large Image edited: #23 (Gt Ellingham School 01.jpg)
+22-06-10 12:50:51    rachel        Large Image edited: #25 (Gt Ellingham School 03.jpg)
+22-06-10 12:51:12    rachel        Large Image edited: #25 (Gt Ellingham School 03.jpg)
+22-06-10 12:51:30    rachel        Large Image edited: #26 (Gt Ellingham School 04.jpg)
+22-06-10 12:51:51    rachel        Large Image edited: #32 (Hobart School 05.jpg)
+22-06-10 12:53:53    rachel        Large Image edited: #33 (New Yacht Feasibility 01.jpg)
+22-06-10 12:54:08    rachel        Large Image edited: #34 (New Yacht Feasibility 02.jpg)
+22-06-10 12:54:37    rachel        Large Image edited: #39 (New Yacht Station 05.jpg)
+22-06-10 12:55:55    rachel        Large Image edited: #48 (Riverside Heights 04.jpg)
+22-06-10 12:56:46    rachel        logged out.
+22-06-10 14:03:22    rachel        logged in.
+22-06-10 14:08:41    rachel        Large Image edited: #13 (Cedar House 08.jpg)
+22-06-10 14:42:52    rachel        logged out.
+22-06-10 15:55:55    rachel        logged in.
+22-06-10 15:59:36    rachel        Page edited: #5 (Allman Woodcock - News)
+22-06-10 16:00:27    rachel        logged out.
+12-07-10 10:13:56    Rachel        logged in.
+12-07-10 10:18:09    Rachel        Page edited: #5 (Allman Woodcock - News)
+11-08-10 09:57:40    rachel        logged in.
+11-08-10 10:02:00    rachel        Page edited: #5 (Allman Woodcock - News)
+13-09-10 10:39:40    rachel        logged in.
+13-09-10 10:48:53    rachel        Page edited: #5 (Allman Woodcock - News)
+13-09-10 10:49:15    rachel        logged out.
+20-09-10 14:47:04    rachel        logged in.
+20-09-10 14:47:42    rachel        Client edited: #27 (R G Carter Ltd)
+20-09-10 14:48:13    rachel        Client edited: #27 (R G Carter Ltd)
+20-09-10 14:48:25    rachel        logged out.
+20-09-10 14:55:23    rachel        logged in.
+20-09-10 15:30:25    rachel        logged out.
+15-10-10 12:39:58    Rachel        logged in.
+15-10-10 12:44:22    Rachel        Page edited: #5 (Allman Woodcock - News)
+15-10-10 12:46:21    Rachel        Page edited: #5 (Allman Woodcock - News)
+15-11-10 11:12:29    rachel        logged in.
+15-11-10 11:17:35    rachel        Page edited: #5 (Allman Woodcock - News)
+23-11-10 04:00:00    rachel        logged in.
+23-11-10 04:05:08    rachel        logged out.
+31-01-11 16:23:04    Rachel        logged in.
+31-01-11 16:28:23    Rachel        Page edited: #5 (Allman Woodcock - News)
+31-01-11 16:28:57    Rachel        Page edited: #5 (Allman Woodcock - News)
+09-02-11 10:10:46    rachel        logged in.
+09-02-11 10:46:09    rachel        Page edited: #5 (Allman Woodcock - News)
+09-02-11 10:47:28    rachel        logged out.
+28-02-11 09:37:06    rachel        logged in.
+28-02-11 09:40:23    rachel        Page edited: #5 (Allman Woodcock - News)
+28-02-11 09:40:49    rachel        logged out.
+31-03-11 14:14:56    rachel        logged in.
+31-03-11 14:17:05    rachel        Page edited: #5 (Allman Woodcock - News)
+31-03-11 14:17:38    rachel        logged out.
+03-05-11 11:16:40    Rachel        logged in.
+03-05-11 11:18:41    Rachel        Page edited: #5 (Allman Woodcock - News)
+03-05-11 11:19:05    Rachel        Page edited: #5 (Allman Woodcock - News)
+10-05-11 13:37:26    rachel        logged in.
+10-05-11 13:37:37    rachel        logged out.
+10-05-11 14:12:16    Rachel        logged in.
+12-05-11 13:56:56    rachel        logged in.
+31-05-11 12:10:41    rachel        logged in.
+01-06-11 18:57:03    rachel        logged in.
+01-06-11 19:20:18    rachel        logged in.
+01-06-11 19:20:40    rachel        logged in.
+01-06-11 19:34:17    rachel        Client added: #28 (Stephen Keable)
+01-06-11 19:45:57    rachel        Client deleted: #28 (Stephen Keable)
+01-06-11 21:43:16    rachel        logged in.
+01-06-11 21:44:04    rachel        Client added: #29 (Stephen Keable)
+01-06-11 21:44:51    rachel        Client edited: #29 (Mark Keable)
+01-06-11 21:45:11    rachel        Client deleted: #29 (Mark Keable)
+01-06-11 21:58:56    rachel        News Item added: #20
+01-06-11 22:02:45    rachel        Portfolio added: #11 (PHP)
+01-06-11 22:02:54    rachel        Portfolio edited: #11 (PHP2)
+01-06-11 22:02:58    rachel        Portfolio deleted: #11 (PHP2)
+01-06-11 22:03:10    rachel        Project edited: #1 (Cawston Park)
+01-06-11 22:03:49    rachel        Project added: #22 (Test)
+01-06-11 22:04:16    rachel        Project deleted: #22 (Test)
+08-06-11 18:06:07    rachel        logged in.
+09-06-11 08:39:01    rachel        logged in.
+09-06-11 08:39:13    rachel        logged out.
+09-06-11 09:33:13    Rachel        logged in.
+09-06-11 09:35:29    Rachel        Page edited: #5 (Allman Woodcock - News)
+09-06-11 09:36:30    Rachel        Page edited: #5 (Allman Woodcock - News)
+09-06-11 09:39:30    Rachel        Page edited: #5 (Allman Woodcock - News)
+09-06-11 09:44:02    Rachel        Page edited: #5 (Allman Woodcock - News)
+09-06-11 09:44:54    Rachel        Page edited: #5 (Allman Woodcock - News)
+09-06-11 10:02:55    Rachel        logged out.
+09-06-11 10:04:46    Rachel        logged in.
+09-06-11 10:16:10    Rachel        Page edited: #5 (Allman Woodcock - News)
+09-06-11 10:19:10    rachel        logged in.
+09-06-11 10:19:43    rachel        Page edited: #5 (Allman Woodcock - News)
+09-06-11 10:20:28    rachel        Page edited: #5 (Allman Woodcock - News)
+09-06-11 10:21:21    rachel        Page edited: #5 (Allman Woodcock - News)
+09-06-11 10:21:49    rachel        logged out.
+09-06-11 10:23:13    rachel        logged in.
+09-06-11 10:23:23    rachel        logged out.
+13-06-11 14:42:39    rachel        logged in.
+13-06-11 14:45:50    rachel        Page edited: #5 (Allman Woodcock - News)
+13-06-11 14:46:38    rachel        logged out.
+13-06-11 14:47:08    rachel        logged in.
+13-06-11 14:49:07    rachel        Page edited: #5 (Allman Woodcock - News)
+13-06-11 14:50:14    rachel        Page edited: #5 (Allman Woodcock - News)
+13-06-11 14:51:00    rachel        Page edited: #5 (Allman Woodcock - News)
+13-06-11 14:52:25    rachel        Page edited: #5 (Allman Woodcock - News)
+13-06-11 14:53:19    rachel        Page edited: #5 (Allman Woodcock - News)
+13-06-11 14:54:22    rachel        logged in.
+13-06-11 14:54:29    rachel        logged out.
+16-06-11 11:28:50    rachel        logged in.
+16-06-11 11:41:37    rachel        logged in.
+16-06-11 11:53:18    rachel        logged in.
+16-06-11 12:13:19    rachel        logged in.
+21-06-11 11:13:15    rachel        logged in.
+21-06-11 11:13:28    rachel        logged out.
+22-07-11 13:11:12    rachel        logged in.
+22-07-11 13:16:40    rachel        logged out.
+22-07-11 13:17:02    rachel        logged in.
+22-07-11 13:24:17    rachel        logged out.
+11-08-11 09:46:13    rachel        logged in.
+11-08-11 09:47:24    rachel        logged out.
+11-08-11 09:52:54    rachel        logged in.
+11-08-11 09:54:56    rachel        Small Image added: #31 (sm_eco-vicarages.jpg)
+11-08-11 09:55:20    rachel        Small Image added: #32 (sm_archbishop_sancroft.jpg)
+11-08-11 10:00:00    rachel        News Item added: #20
+11-08-11 10:01:59    rachel        News Item edited: #20
+11-08-11 10:02:50    rachel        News Item deleted: #20
+11-08-11 10:02:53    rachel        logged out.
+11-08-11 10:03:15    rachel        logged in.
+11-08-11 10:04:12    rachel        News Item added: #21
+11-08-11 10:05:03    rachel        News Item deleted: #21
+11-08-11 10:06:52    rachel        News Item added: #22
+11-08-11 10:08:25    rachel        News Item edited: #22
+11-08-11 10:10:05    rachel        News Item edited: #22
+11-08-11 10:11:29    rachel        logged out.
+11-08-11 10:12:02    rachel        logged in.
+11-08-11 10:13:51    rachel        News Item edited: #22
+11-08-11 10:14:37    rachel        News Item edited: #22
+11-08-11 10:15:23    rachel        News Item edited: #22
+11-08-11 10:16:06    rachel        News Item edited: #22
+11-08-11 10:16:37    rachel        News Item edited: #22
+11-08-11 10:17:08    rachel        News Item edited: #22
+11-08-11 10:18:25    rachel        News Item edited: #22
+11-08-11 10:19:12    rachel        News Item edited: #22
+11-08-11 10:22:02    rachel        News Item added: #23
+11-08-11 10:22:35    rachel        News Item edited: #23
+11-08-11 10:25:42    rachel        logged out.
+25-08-11 16:02:31    rachel        logged in.
+25-08-11 16:03:00    rachel        logged out.
+26-08-11 11:45:38    rachel        logged in.
+26-08-11 11:48:57    rachel        Client edited: #12 (Norfolk & Waveney Mental Health NHS Foundation Trust)
+26-08-11 11:49:52    rachel        Client edited: #23 (Anglia Support Partnership)
+26-08-11 11:51:24    rachel        Client edited: #3 (Associated Architects)
+26-08-11 11:52:03    rachel        Client edited: #13 (Simons Construction)
+26-08-11 11:52:36    rachel        Client edited: #17 (Fielden & Mawson)
+26-08-11 11:53:06    rachel        Client edited: #20 (LSI Architects)
+26-08-11 11:57:39    rachel        Page edited: #4 (Allman Woodcock - Portfolio)
+26-08-11 11:58:15    rachel        logged out.
+30-08-11 09:40:28    rachel        logged in.
+30-08-11 10:00:40    rachel        Page edited: #5 (Allman Woodcock - News)
+30-08-11 10:02:19    rachel        logged out.
+01-09-11 08:58:29    rachel        logged in.
+01-09-11 08:58:53    rachel        Page edited: #1 (Welcome to Allman Woodcock)
+01-09-11 09:03:57    rachel        News Item added: #24
+01-09-11 09:05:10    rachel        logged out.
+01-09-11 10:34:05    rachel        logged in.
+01-09-11 10:34:29    rachel        News Item edited: #24
+01-09-11 10:34:38    rachel        logged out.
+28-09-11 15:05:25    rachel        logged in.
+28-09-11 15:06:52    rachel        Page edited: #5 (Allman Woodcock - News)
+28-09-11 15:07:44    rachel        logged out.
+24-10-11 10:12:56    rachel        logged in.
+24-10-11 10:13:06    rachel        logged out.
+24-10-11 10:52:14    rachel        logged in.
+22-03-12 09:55:25    rachel        logged in.
+22-03-12 09:59:07    rachel        News Item edited: #23
+22-03-12 10:01:12    rachel        News Item edited: #23
+22-03-12 10:03:16    rachel        logged out.
+22-03-12 10:03:47    rachel        logged in.
+22-03-12 10:06:18    rachel        News Item edited: #23
+22-03-12 10:07:33    rachel        News Item edited: #23
+22-03-12 10:08:06    rachel        News Item edited: #23
+22-03-12 10:10:16    rachel        News Item edited: #23
+22-03-12 10:11:10    rachel        News Item edited: #23
+22-03-12 10:11:51    rachel        News Item edited: #23
+22-03-12 10:12:20    rachel        News Item edited: #23
+22-03-12 10:12:54    rachel        News Item edited: #23
+22-03-12 10:14:16    rachel        logged out.
+04-04-12 12:16:58    rachel        logged in.
+04-04-12 12:45:11    rachel        logged out.
+04-04-12 16:13:44    rachel        logged in.
+04-04-12 16:54:05    rachel        logged out.
+12-04-12 09:50:54    Rachel        logged in.
+12-04-12 10:05:52    Rachel        News Item added: #25
+12-04-12 10:06:55    Rachel        News Item edited: #25
+12-04-12 10:07:19    Rachel        News Item edited: #25
+12-04-12 10:12:38    Rachel        Small Image added: #33 (sm_hammerton_court.jpeg)
+12-04-12 10:12:56    Rachel        News Item edited: #25
+12-04-12 10:14:04    Rachel        News Item edited: #25
+12-04-12 10:15:05    Rachel        News Item edited: #25
+12-04-12 10:15:49    Rachel        News Item deleted: #25
+12-04-12 10:18:09    Rachel        News Item added: #26
+12-04-12 10:19:46    Rachel        News Item edited: #26
+12-04-12 10:20:23    Rachel        News Item edited: #26
+12-04-12 10:22:06    Rachel        News Item edited: #26
+12-04-12 10:22:58    Rachel        News Item edited: #26
+12-04-12 10:24:49    Rachel        News Item edited: #26
+12-04-12 10:27:51    Rachel        News Item edited: #22
+12-04-12 10:28:59    Rachel        News Item edited: #23
+12-04-12 10:29:46    Rachel        News Item edited: #23
+12-04-12 10:30:00    Rachel        News Item edited: #22
+12-04-12 10:30:33    Rachel        News Item edited: #23
+12-04-12 10:31:00    Rachel        News Item edited: #23
+12-04-12 10:31:23    Rachel        logged out.
+27-06-12 16:00:10    rachel        logged in.
+27-06-12 16:02:13    rachel        logged out.
+10-09-12 15:14:15    james         logged in.
+10-09-12 15:21:16    rachel        logged in.
+10-09-12 15:31:17    rachel        logged out.
+20-09-12 16:55:29    james         logged in.
+01-11-12 09:17:00    rachel        logged in.
+01-11-12 09:17:43    rachel        News Item edited: #26
+01-11-12 09:17:48    rachel        logged out.
+07-11-12 01:24:59    james         logged in.
+11-04-13 15:12:41    rachel        logged in.
+11-04-13 15:19:45    rachel        Small Image deleted: #4 (link-image1.jpg)
+11-04-13 15:20:29    rachel        Small Image added: #34 (link-image1.jpeg)
+11-04-13 15:22:14    rachel        Small Image deleted: #34 (link-image1.jpeg)
+11-04-13 15:24:22    rachel        Small Image added: #35 (link-image2.jpeg)
+11-04-13 15:24:40    rachel        Small Image deleted: #35 (link-image2.jpeg)
+11-04-13 15:25:27    rachel        logged out.
+11-04-13 15:26:01    rachel        logged in.
+11-04-13 15:31:54    rachel        logged out.
+11-04-13 15:32:58    rachel        logged in.
+11-04-13 15:40:16    rachel        logged out.
+11-04-13 15:47:26    rachel        logged in.
+11-04-13 15:55:11    rachel        Large Image edited: #4 (Cawston Park 04.jpg)
+11-04-13 15:55:21    rachel        Large Image deleted: #5 (Cawston_Park_05.jpg)
+11-04-13 15:55:32    rachel        Large Image edited: #11 (Cedar House 06.jpg)
+11-04-13 15:55:42    rachel        Large Image edited: #10 (Cedar House 05.jpg)
+11-04-13 15:55:48    rachel        Large Image edited: #9 (Cedar House 04.jpg)
+11-04-13 15:55:54    rachel        Large Image edited: #8 (Cedar House 03.jpg)
+11-04-13 15:56:12    rachel        Large Image edited: #2 (Cawston Park 02.jpg)
+11-04-13 15:56:29    rachel        Large Image edited: #20 (George Street 02.jpg)
+11-04-13 15:56:39    rachel        Large Image edited: #21 (George Street 03.jpg)
+11-04-13 15:56:47    rachel        Large Image deleted: #21 (George_Street_03.jpg)
+11-04-13 15:57:04    rachel        Large Image edited: #18 (Dereham Library 03.jpg)
+11-04-13 15:57:20    rachel        Large Image edited: #27 (Gt Ellingham School 05.jpg)
+11-04-13 15:57:39    rachel        Large Image edited: #29 (Hobart School 02.jpg)
+11-04-13 15:57:58    rachel        Large Image edited: #24 (Gt Ellingham School 02.jpg)
+11-04-13 16:00:09    rachel        Large Image edited: #30 (Hobart School 03.jpg)
+11-04-13 16:00:33    rachel        Large Image edited: #35 (New Yacht Station 01.jpg)
+11-04-13 16:00:46    rachel        Large Image edited: #37 (New Yacht Station 03.jpg)
+11-04-13 16:00:57    rachel        Large Image edited: #38 (New Yacht Station 04.jpg)
+11-04-13 16:01:19    rachel        Large Image edited: #43 (Prince Of Wales Road 02.jpg)
+11-04-13 16:01:29    rachel        Large Image edited: #42 (Prince Of Wales Road 01.jpg)
+11-04-13 16:01:41    rachel        Large Image edited: #47 (Riverside Heights 03.jpg)
+11-04-13 16:01:52    rachel        Large Image edited: #46 (Riverside Heights 02.jpg)
+11-04-13 16:02:08    rachel        Large Image edited: #51 (Spyridon Church 03.jpg)
+11-04-13 16:02:28    rachel        Large Image edited: #50 (Spyridon Church 02.jpg)
+11-04-13 16:02:41    rachel        Large Image edited: #49 (Spyridon Church 01.jpg)
+11-04-13 16:02:56    rachel        Large Image edited: #55 (Thurlton Primary 03.jpg)
+11-04-13 16:03:08    rachel        Large Image edited: #54 (Thurlton Primary 02.jpg)
+11-04-13 16:03:22    rachel        Large Image edited: #57 (Thurlton Primary 05.jpg)
+11-04-13 16:03:37    rachel        Large Image deleted: #57 (Thurlton_Primary_05.jpg)
+11-04-13 16:03:45    rachel        Large Image deleted: #15 (Costessey_Primary_School_01.jpg)
+11-04-13 16:03:51    rachel        Large Image deleted: #4 (Cawston_Park_04.jpg)
+11-04-13 16:03:56    rachel        Large Image deleted: #16 (Costessey_Primary_School_02.jpg)
+11-04-13 16:04:05    rachel        Large Image deleted: #23 (Gt_Ellingham_School_01.jpg)
+11-04-13 16:04:10    rachel        Large Image deleted: #22 (George_Street_04.jpg)
+11-04-13 16:04:25    rachel        Large Image deleted: #32 (Hobart_School_05.jpg)
+11-04-13 16:04:38    rachel        Large Image deleted: #33 (New_Yacht_Feasibility_01.jpg)
+11-04-13 16:04:49    rachel        Large Image deleted: #34 (New_Yacht_Feasibility_02.jpg)
+11-04-13 16:04:59    rachel        Large Image deleted: #40 (Poringland_Library_01.jpg)
+11-04-13 16:05:09    rachel        Large Image deleted: #41 (Poringland_Library_02.jpg)
+11-04-13 16:05:23    rachel        Large Image deleted: #51 (Spyridon_Church_03.jpg)
+11-04-13 16:05:38    rachel        Large Image deleted: #58 (Wymondham_Library_01.jpg)
+11-04-13 16:05:47    rachel        Large Image deleted: #59 (Wymondham_Library_02.jpg)
+11-04-13 16:05:58    rachel        Large Image deleted: #70 (Sprowston_High_School_01.jpg)
+11-04-13 16:06:08    rachel        Large Image deleted: #72 (Sprowston_High_School_02.jpg)
+11-04-13 16:06:30    rachel        Large Image deleted: #77 (Wymondham_Library_02b.jpg)
+11-04-13 16:06:39    rachel        Large Image deleted: #79 (Wymondham_Library_04d.jpg)
+11-04-13 16:06:49    rachel        Large Image deleted: #78 (Wymondham_Library_03c.jpg)
+11-04-13 16:06:57    rachel        Large Image deleted: #76 (Wymondham_Library_01a.jpg)
+11-04-13 16:07:29    rachel        Large Image edited: #89 (Queens Hill Primary School)
+11-04-13 16:07:48    rachel        Large Image edited: #86 (Queens Hill Primary School)
+11-04-13 16:08:03    rachel        Large Image edited: #92 (Queens Hill Primary School)
+11-04-13 16:08:25    rachel        Large Image edited: #96 (Wymondham Library)
+11-04-13 16:08:48    rachel        Large Image edited: #101 (Florecen_Hayes_01a.jpg)
+11-04-13 16:09:00    rachel        Large Image edited: #101 (Florecen_Hayes_01a.jpg)
+11-04-13 16:09:14    rachel        Large Image edited: #103 (Florence_Hayes_01c.jpg)
+11-04-13 16:09:31    rachel        Large Image edited: #100 (Wymondham Library)
+11-04-13 16:09:44    rachel        Large Image edited: #98 (Wymondham Library)
+11-04-13 16:10:10    rachel        Project edited: #1 (Cawston Park)
+11-04-13 16:10:51    rachel        Large Image deleted: #13 (Cedar_House_08.jpg)
+11-04-13 16:11:54    rachel        Large Image edited: #66 (Cedar House 01.jpg)
+11-04-13 16:13:34    rachel        Large Image edited: #3 (Cawston Park 03.jpg)
+11-04-13 16:14:01    rachel        Large Image edited: #29 (Hobart School 02.jpg)
+11-04-13 16:14:27    rachel        Large Image edited: #29 (Hobart School 02.jpg)
+11-04-13 16:18:40    rachel        logged out.
+11-04-13 16:19:42    rachel        logged in.
+11-04-13 16:20:24    rachel        Large Image deleted: #27 (Gt_Ellingham_School_05.jpg)
+11-04-13 16:21:09    rachel        Large Image deleted: #8 (Cedar_House_03.jpg)
+11-04-13 16:21:14    rachel        Large Image deleted: #9 (Cedar_House_04.jpg)
+11-04-13 16:21:19    rachel        Large Image deleted: #10 (Cedar_House_05.jpg)
+11-04-13 16:21:39    rachel        Large Image edited: #66 (Cedar House 01.jpg)
+11-04-13 16:22:04    rachel        Large Image edited: #18 (Dereham Library 03.jpg)
+11-04-13 16:22:15    rachel        Large Image edited: #20 (George Street 02.jpg)
+11-04-13 16:22:19    rachel        Large Image edited: #20 (George Street 02.jpg)
+11-04-13 16:22:36    rachel        Large Image edited: #25 (Gt Ellingham School 03.jpg)
+11-04-13 16:23:02    rachel        Large Image edited: #38 (New Yacht Station 04.jpg)
+11-04-13 16:23:15    rachel        Large Image edited: #39 (New Yacht Station 05.jpg)
+11-04-13 16:23:30    rachel        Large Image edited: #42 (Prince Of Wales Road 01.jpg)
+11-04-13 16:24:07    rachel        Large Image edited: #48 (Riverside Heights 04.jpg)
+11-04-13 16:24:22    rachel        Large Image edited: #46 (Riverside Heights 02.jpg)
+11-04-13 16:24:37    rachel        Large Image edited: #54 (Thurlton Primary 02.jpg)
+11-04-13 16:25:03    rachel        Large Image edited: #86 (Queens Hill Primary School)
+11-04-13 16:25:19    rachel        Large Image edited: #89 (Queens Hill Primary School)
+11-04-13 16:25:36    rachel        Large Image edited: #92 (Queens Hill Primary School)
+11-04-13 16:25:51    rachel        Large Image deleted: #96 (Wymondham_Library_Ext_03.jpg)
+11-04-13 16:26:02    rachel        Large Image edited: #98 (Wymondham Library)
+11-04-13 16:26:17    rachel        Large Image edited: #100 (Wymondham Library)
+11-04-13 16:26:32    rachel        Large Image edited: #103 (Florence_Hayes_01c.jpg)
+11-04-13 16:26:43    rachel        Large Image edited: #101 (Florecen_Hayes_01a.jpg)
+12-04-13 03:15:00    james         logged in.
+12-04-13 03:35:17    james         Small Image added: #36 (link-image1.jpg)
+12-04-13 03:37:56    james         logged in.
+12-04-13 07:57:15    rachel        logged in.
+12-04-13 07:58:47    rachel        logged out.
+12-04-13 09:32:25    rachel        logged in.
+12-04-13 09:35:23    rachel        Page edited: #5 (Allman Woodcock - News)
+12-04-13 09:48:35    rachel        Client deleted: #5 (Chancellor Care)
+12-04-13 09:48:39    rachel        Client deleted: #6 (Lloyds TSB Bank Plc)
+12-04-13 09:48:45    rachel        Client deleted: #8 (TargetFollow)
+12-04-13 09:48:54    rachel        Client deleted: #15 (Europarc Consulting)
+12-04-13 09:48:59    rachel        Client deleted: #14 (DFAL Ltd)
+12-04-13 09:49:06    rachel        Client deleted: #16 (C&M Architects)
+12-04-13 09:49:17    rachel        Client deleted: #24 (Bungay Arts and Theatre Society)
+12-04-13 09:49:31    rachel        Client added: #28 (College of West Anglia)
+12-04-13 09:49:45    rachel        Client deleted: #1 (Great Yarmouth Borough Council)
+12-04-13 09:49:50    rachel        Client deleted: #2 (Norwich City Council)
+12-04-13 09:51:01    rachel        Client deleted: #23 (Anglia Support Partnership)
+12-04-13 09:51:02    rachel        Client deleted: #3 (Associated Architects)
+12-04-13 09:51:06    rachel        Client deleted: #4 (City College Norwich)
+12-04-13 09:51:08    rachel        Client deleted: #7 (National Westminster Bank)
+12-04-13 09:51:11    rachel        Client deleted: #9 (Bluespace Ltd)
+12-04-13 09:51:35    rachel        Client added: #29 (Associated Architects)
+12-04-13 09:52:05    rachel        Client edited: #29 (Associated Architects)
+12-04-13 09:52:11    rachel        Client deleted: #27 (R G Carter Ltd)
+12-04-13 09:52:15    rachel        Client deleted: #11 (Ingleton Wood LLP)
+12-04-13 09:52:18    rachel        Client deleted: #12 (Norfolk & Waveney Mental Health NHS Foundation Trust)
+12-04-13 09:52:20    rachel        Client deleted: #13 (Simons Construction)
+12-04-13 09:52:23    rachel        Client deleted: #17 (Fielden & Mawson)
+12-04-13 09:52:26    rachel        Client deleted: #18 (Lambert Bardsley Reeve)
+12-04-13 09:52:30    rachel        Client deleted: #19 (Leathes Prior)
+12-04-13 09:52:32    rachel        Client deleted: #20 (LSI Architects)
+12-04-13 09:52:35    rachel        Client deleted: #21 (The Diocese of Worcester)
+12-04-13 09:52:38    rachel        Client deleted: #22 (NPS Property Consultants)
+12-04-13 09:52:40    rachel        Client deleted: #28 (College of West Anglia)
+12-04-13 09:53:00    rachel        Client added: #30 (AVIVA)
+12-04-13 09:53:30    rachel        Client added: #31 (Birkets llp)
+12-04-13 09:54:05    rachel        Client added: #32 (Bluespace Ltd.)
+12-04-13 09:54:33    rachel        Client added: #33 (City College Norwich)
+12-04-13 09:54:43    rachel        Client added: #34 (College of West Anglia)
+12-04-13 09:55:07    rachel        Client added: #35 (Elm Contracts)
+12-04-13 09:56:21    rachel        Client added: #36 (Feilden & Mawson)
+12-04-13 09:56:45    rachel        Client added: #37 (Great Yarmouth Borough Council)
+12-04-13 09:57:00    rachel        Client added: #38 (Great Yarmouth Community Housing)
+12-04-13 09:57:27    rachel        Client added: #39 (Ingleton Wood llp)
+12-04-13 09:57:48    rachel        Client added: #40 (Ipswich Borough Council)
+12-04-13 09:58:12    rachel        Client added: #41 (Lambert Bardsley Reeve)
+12-04-13 09:58:29    rachel        Client added: #42 (Leathes Prior)
+12-04-13 09:59:00    rachel        Client deleted: #42 (Leathes Prior)
+12-04-13 09:59:03    rachel        Client deleted: #41 (Lambert Bardsley Reeve)
+12-04-13 09:59:05    rachel        Client deleted: #40 (Ipswich Borough Council)
+12-04-13 09:59:08    rachel        Client deleted: #39 (Ingleton Wood llp)
+12-04-13 09:59:33    rachel        Client added: #43 (Ingleton Wood llp)
+12-04-13 09:59:39    rachel        Client deleted: #43 (Ingleton Wood llp)
+12-04-13 09:59:49    rachel        Client added: #44 (Ingleton Wood llp)
+12-04-13 10:00:13    rachel        Client added: #45 (Ipswich Borough Council)
+12-04-13 10:00:41    rachel        Client edited: #44 (Ingleton Wood llp)
+12-04-13 10:01:27    rachel        Client added: #46 (Lambert Bardsley Reeve)
+12-04-13 10:01:40    rachel        Client added: #47 (Leathes Prior)
+12-04-13 10:01:56    rachel        Client added: #48 (Lowestoft College)
+12-04-13 10:02:22    rachel        Client added: #49 (LSI Architects)
+12-04-13 10:02:39    rachel        Client added: #50 (Mansell Construction Services Ltd.)
+12-04-13 10:03:02    rachel        Client added: #51 (National Westminster Bank)
+12-04-13 10:03:57    rachel        Client added: #52 (Norfolk and Suffolk NHS Foundation Trust)
+12-04-13 10:04:39    rachel        Client added: #53 (NPS Group)
+12-04-13 10:04:59    rachel        Client added: #54 (Omnis Construction)
+12-04-13 10:05:18    rachel        Client added: #55 (Ortona Ltd.)
+12-04-13 10:05:28    rachel        Client added: #56 (Plexus Law)
+12-04-13 10:05:41    rachel        Client added: #57 (Serco ASP)
+12-04-13 10:06:02    rachel        Client added: #58 (Simons Construction)
+12-04-13 10:06:24    rachel        Client added: #59 (The Diocese of Worcester)
+12-04-13 10:06:37    rachel        Client added: #60 (The Diocese of Norwich)
+12-04-13 10:06:53    rachel        Client deleted: #47 (Leathes Prior)
+12-04-13 10:07:35    rachel        Client deleted: #55 (Ortona Ltd.)
+12-04-13 10:08:21    rachel        Page edited: #2 (Allman Woodcock - Our Clients)
+12-04-13 10:08:37    rachel        Client edited: #53 (NPS Group)
+12-04-13 10:08:42    rachel        Client edited: #29 (Associated Architects)
+12-04-13 10:08:48    rachel        Client edited: #29 (Associated Architects)
+12-04-13 10:08:53    rachel        Client edited: #49 (LSI Architects)
+12-04-13 10:09:00    rachel        Client edited: #46 (Lambert Bardsley Reeve)
+12-04-13 10:09:06    rachel        Client edited: #44 (Ingleton Wood llp)
+12-04-13 10:09:12    rachel        Client edited: #32 (Bluespace Ltd.)
+12-04-13 10:09:19    rachel        Client edited: #36 (Feilden & Mawson)
+12-04-13 10:09:26    rachel        Client edited: #58 (Simons Construction)
+12-04-13 10:09:54    rachel        Client deleted: #38 (Great Yarmouth Community Housing)
+12-04-13 10:10:12    rachel        Client added: #61 (R.G. Carter Ltd.)
+12-04-13 10:14:20    rachel        Page edited: #3 (Allman Woodcock - Our Services)
+12-04-13 10:15:28    rachel        Large Image edited: #29 (Hobart School 02.jpg)
+12-04-13 10:15:47    rachel        Large Image edited: #29 (Hobart School 02.jpg)
+12-04-13 10:16:08    rachel        Page edited: #3 (Allman Woodcock - Our Services)
+12-04-13 10:17:16    rachel        Large Image edited: #44 (Prince Of Wales Road 03.jpg)
+12-04-13 10:19:11    rachel        Client deleted: #29 (Associated Architects)
+12-04-13 10:19:24    rachel        logged out.
+12-04-13 10:39:42    rachel        logged in.
+12-04-13 10:40:09    rachel        logged out.
+12-04-13 10:40:30    rachel        logged in.
+12-04-13 10:41:04    rachel        logged out.
+12-04-13 10:42:07    rachel        logged in.
+12-04-13 10:42:47    rachel        logged out.
+12-04-13 10:50:14    rachel        logged in.
+12-04-13 10:50:48    rachel        logged out.
+12-04-13 12:32:14    rachel        logged in.
+12-04-13 12:56:59    rachel        logged out.
+12-04-13 14:34:42    rachel        logged in.
+12-04-13 14:36:51    rachel        logged out.
+12-04-13 14:42:41    rachel        logged in.
+12-04-13 14:44:41    rachel        logged out.
+12-04-13 14:46:15    james         logged in.
+12-04-13 14:49:35    rachel        logged in.
+12-04-13 14:52:28    rachel        logged out.
+12-04-13 14:53:17    rachel        logged in.
+12-04-13 14:54:26    rachel        Project added: #22 (St Georges Chapel & Pavilion)
+12-04-13 14:54:48    rachel        Project edited: #22 (St Georges Chapel & Pavilion)
+12-04-13 14:55:10    rachel        Project added: #23 (Ipswich Crematorium)
+12-04-13 14:55:45    rachel        Project added: #24 (The Dementia Intensive Care Unit)
+12-04-13 14:56:07    rachel        Project added: #25 (Creative Arts Building)
+12-04-13 14:56:31    rachel        Project added: #26 (Tindall Street)
+12-04-13 14:56:58    rachel        Project added: #27 (Archbishop Sancroft High School)
+12-04-13 14:57:18    rachel        logged out.
+12-04-13 14:59:01    rachel        logged in.
+12-04-13 15:08:44    rachel        logged out.
+16-04-13 12:14:28    rachel        logged in.
+16-04-13 12:16:31    rachel        logged out.
+16-04-13 12:17:29    rachel        logged in.
+16-04-13 12:19:22    rachel        Large Image edited: #67 (Cedar House 02.jpg)
+16-04-13 12:19:31    rachel        Large Image edited: #68 (Cedar House 07.jpg)
+16-04-13 12:19:41    rachel        Large Image edited: #19 (George Street 01.jpg)
+16-04-13 12:20:13    rachel        Large Image edited: #25 (Gt Ellingham School 03.jpg)
+16-04-13 12:20:34    rachel        Large Image edited: #45 (Riverside Heights 01.jpg)
+16-04-13 12:20:48    rachel        Large Image edited: #52 (Spyridon Church 04.jpg)
+16-04-13 12:21:06    rachel        Large Image edited: #49 (Spyridon Church 01.jpg)
+16-04-13 12:22:56    rachel        Large Image edited: #60 (AW 01.jpg)
+16-04-13 12:23:13    rachel        Large Image edited: #81 (Sprowston High School 02b)
+16-04-13 12:23:31    rachel        Large Image edited: #88 (Queens Hill Primary School)
+16-04-13 12:23:46    rachel        Large Image edited: #90 (Queens Hill Primary School)
+16-04-13 12:24:10    rachel        Large Image edited: #99 (Wymondham Library)
+16-04-13 12:24:32    rachel        Large Image edited: #104 (Florence_Hayes_01d.jpg)
+16-04-13 12:25:00    rachel        Large Image edited: #66 (Cedar House 01.jpg)
+16-04-13 12:25:15    rachel        Large Image edited: #31 (Hobart School 04.jpg)
+16-04-13 12:25:33    rachel        Large Image edited: #53 (Thurlton Primary 01.jpg)
+16-04-13 12:25:54    rachel        Large Image edited: #73 (Poringland Library 1a)
+16-04-13 12:26:11    rachel        Large Image edited: #75 (Poringland Library 3c)
+16-04-13 12:26:29    rachel        Large Image edited: #85 (Tindall Street 02)
+16-04-13 12:26:49    rachel        Large Image edited: #95 (Wymondham Library)
+16-04-13 12:39:28    rachel        Project deleted: #26 (Tindall Street)
+16-04-13 12:58:14    rachel        logged out.
+22-04-13 01:04:46    james         logged in.
+22-04-13 01:13:00    rachel        logged in.
+23-04-13 10:53:42    rachel        logged in.
+23-04-13 10:56:19    rachel        logged out.
+23-04-13 16:02:31    rachel        logged in.
+23-04-13 16:02:51    rachel        logged out.
+24-04-13 13:57:03    rachel        logged in.
+24-04-13 13:57:18    rachel        logged out.
+03-05-13 15:59:48    rachel        logged in.
+03-05-13 16:00:50    rachel        Large Image edited: #1 (Cawston_Park_01.jpg)
+03-05-13 16:01:04    rachel        Large Image edited: #11 (Cedar House 06.jpg)
+03-05-13 16:01:22    rachel        Large Image edited: #24 (Gt Ellingham School 02.jpg)
+03-05-13 16:01:42    rachel        Large Image edited: #29 (Hobart School 02.jpg)
+03-05-13 16:02:06    rachel        Large Image edited: #35 (New Yacht Station 01.jpg)
+03-05-13 16:02:34    rachel        Large Image edited: #47 (Riverside Heights 03.jpg)
+03-05-13 16:02:56    rachel        Large Image edited: #52 (Spyridon Church 04.jpg)
+03-05-13 16:03:24    rachel        Large Image edited: #55 (Thurlton Primary 03.jpg)
+03-05-13 16:04:00    rachel        Large Image edited: #73 (Poringland Library 1a)
+03-05-13 16:04:32    rachel        Large Image edited: #81 (Sprowston High School 02b)
+03-05-13 16:05:07    rachel        Large Image edited: #85 (Tindall Street 02)
+03-05-13 16:08:21    rachel        logged out.
+03-05-13 16:10:26    rachel        logged in.
+03-05-13 16:26:11    rachel        Large Image deleted: #111 (Tindall_St_02.jpg)
+03-05-13 16:26:57    rachel        Large Image deleted: #110 (Tindall_St_01.jpg)
+03-05-13 16:27:02    rachel        logged out.
+07-05-13 11:53:49    rachel        logged in.
+07-05-13 11:54:19    rachel        Large Image edited: #110 (Tindall St)
+07-05-13 12:04:28    rachel        Large Image edited: #108 (Archbishop Sancroft)
+07-05-13 12:04:46    rachel        Large Image edited: #28 (Hobart School 01.jpg)
+07-05-13 12:05:35    rachel        Large Image edited: #117 (The Dementia Intensive Care Unit)
+07-05-13 12:08:58    rachel        Large Image edited: #111 (Tindall St)
+07-05-13 12:09:12    rachel        Large Image edited: #111 (Tindall St)
+07-05-13 12:09:27    rachel        Large Image deleted: #84 (Tindal_St_01.jpg)
+07-05-13 12:09:40    rachel        Large Image deleted: #85 (Tindal_St_02.jpg)
+07-05-13 12:30:59    rachel        Small Image deleted: #5 (link-image2.jpg)
+07-05-13 12:35:34    rachel        logged out.
+07-05-13 13:57:44    rachel        logged in.
+07-05-13 14:08:36    rachel        Large Image deleted: #11 (Cedar_House_06.jpg)
+07-05-13 14:09:00    rachel        Large Image deleted: #18 (Dereham_Library_03.jpg)
+07-05-13 14:09:09    rachel        Large Image deleted: #20 (George_Street_02.jpg)
+07-05-13 14:09:16    rachel        Large Image deleted: #24 (Gt_Ellingham_School_02.jpg)
+07-05-13 14:09:27    rachel        Large Image deleted: #25 (Gt_Ellingham_School_03.jpg)
+07-05-13 14:09:41    rachel        Large Image deleted: #35 (New_Yacht_Station_01.jpg)
+07-05-13 14:10:04    rachel        Large Image deleted: #38 (New_Yacht_Station_04.jpg)
+07-05-13 14:10:14    rachel        Large Image deleted: #39 (New_Yacht_Station_05.jpg)
+07-05-13 14:10:35    rachel        Large Image deleted: #46 (Riverside_Heights_02.jpg)
+07-05-13 14:10:54    rachel        Large Image deleted: #47 (Riverside_Heights_03.jpg)
+07-05-13 14:11:05    rachel        Large Image deleted: #48 (Riverside_Heights_04.jpg)
+07-05-13 14:11:14    rachel        Large Image deleted: #49 (Spyridon_Church_01.jpg)
+07-05-13 14:11:35    rachel        Large Image deleted: #54 (Thurlton_Primary_02.jpg)
+07-05-13 14:11:53    rachel        Large Image deleted: #55 (Thurlton_Primary_03.jpg)
+07-05-13 14:12:23    rachel        Large Image deleted: #60 (AW_01.jpg)
+07-05-13 14:12:45    rachel        Large Image deleted: #73 (Poringland_Library_01a.jpg)
+07-05-13 14:13:09    rachel        Large Image deleted: #86 (Queen_Hill_Primary_Ext_01.jpg)
+07-05-13 14:13:28    rachel        Large Image deleted: #81 (Sprowston_High_School_02b.jpg)
+07-05-13 14:13:47    rachel        Large Image deleted: #89 (Queen_Hill_Primary_Int_01.jpg)
+07-05-13 14:13:59    rachel        Large Image deleted: #92 (Queen_Hill_Primary_Int_04.jpg)
+07-05-13 14:14:28    rachel        Large Image deleted: #98 (Wymondham_Library_Int_02.jpg)
+07-05-13 14:14:42    rachel        Large Image deleted: #101 (Florence_Hayes_01a.jpg)
+07-05-13 14:14:52    rachel        Large Image deleted: #103 (Florence_Hayes_01c.jpg)
+07-05-13 14:16:44    rachel        Portfolio edited: #3 (Health)
+07-05-13 14:17:09    rachel        Portfolio edited: #3 (Health)
+07-05-13 14:19:28    rachel        Portfolio edited: #2 (Education)
+07-05-13 14:25:54    rachel        logged out.
+08-05-13 00:46:22    james         logged in.
+08-05-13 01:17:59    james         Page edited: #2 (Allman Woodcock - Our Clients)
+08-05-13 08:32:38    rachel        logged in.
+08-05-13 08:33:21    rachel        logged out.
+08-05-13 12:13:02    rachel        logged in.
+08-05-13 12:14:57    rachel        Small Image deleted: #37 (link-image2.jpg)
+08-05-13 12:16:48    rachel        Small Image deleted: #37 (link-image2.jpg)
+08-05-13 12:17:25    rachel        Small Image added: #38 (link-image2.jpg)
+08-05-13 12:19:46    rachel        Page edited: #2 (Allman Woodcock - Our Clients)
+08-05-13 12:20:49    rachel        Small Image deleted: #6 (link-image3.jpg)
+08-05-13 12:23:54    rachel        Page edited: #3 (Allman Woodcock - Our Services)
+08-05-13 12:24:42    rachel        Small Image deleted: #7 (link-image4.jpg)
+08-05-13 12:24:47    rachel        Small Image deleted: #8 (link-image5.jpg)
+08-05-13 12:24:51    rachel        Small Image deleted: #9 (link-image6.jpg)
+08-05-13 12:26:55    rachel        Page edited: #4 (Allman Woodcock - Portfolio)
+08-05-13 12:27:07    rachel        Page edited: #5 (Allman Woodcock - News)
+08-05-13 12:27:18    rachel        Page edited: #6 (Allman Woodcock - Contact Us)
+08-05-13 12:29:07    rachel        Page edited: #1 (Welcome to Allman Woodcock)
+08-05-13 12:30:06    rachel        Page edited: #2 (Allman Woodcock - Our Clients)
+08-05-13 12:30:31    rachel        Page edited: #1 (Welcome to Allman Woodcock)
+08-05-13 12:30:58    rachel        Page edited: #3 (Allman Woodcock - Our Services)
+08-05-13 12:32:03    rachel        Page edited: #4 (Allman Woodcock - Portfolio)
+08-05-13 12:32:26    rachel        Page edited: #6 (Allman Woodcock - Contact Us)
+08-05-13 12:32:58    rachel        Page edited: #4 (Allman Woodcock - Portfolio)
+08-05-13 12:35:32    rachel        logged out.
+08-05-13 15:46:08    rachel        logged in.
+08-05-13 15:54:03    rachel        Small Image added: #43 (Sm_CAB.jpg)
+08-05-13 15:54:27    rachel        Small Image added: #44 (Sm_Ipswich_crem.jpg)
+08-05-13 15:57:35    rachel        News Item added: #27
+08-05-13 15:58:38    rachel        News Item edited: #26
+08-05-13 16:00:12    rachel        News Item added: #28
+08-05-13 16:01:03    rachel        News Item edited: #27
+08-05-13 16:01:25    rachel        logged out.
+09-05-13 09:26:09    rachel        logged in.
+09-05-13 15:04:04    rachel        logged in.
+09-05-13 15:26:19    rachel        logged out.
+10-05-13 00:37:02    james         logged in.
+22-05-13 14:45:00    rachel        logged in.
+22-05-13 14:45:54    rachel        Portfolio edited: #3 (Health)
+22-05-13 14:49:06    rachel        logged out.
+26-05-13 21:09:19    james         logged in.
+26-05-13 21:11:59    james         Project added: #28 (test project)
+26-05-13 21:12:34    james         Portfolio added: #11 (James Test)
+26-05-13 21:12:50    james         Portfolio deleted: #11 (James Test)
+26-05-13 21:13:03    james         Project deleted: #28 (test project)
+28-05-13 14:31:57    james         logged in.
+28-05-13 14:32:24    james         Project added: #29 (Testing project)
+28-05-13 14:32:41    james         Project deleted: #29 (Testing project)
+28-05-13 14:41:38    rachel        logged in.
+28-05-13 14:42:58    rachel        Portfolio edited: #3 (Health)
+28-05-13 14:46:58    rachel        Portfolio edited: #3 (Health)
+28-05-13 15:17:45    rachel        logged out.
+18-06-13 00:44:21    james         logged in.
+18-06-13 00:46:34    james         Portfolio edited: #3 (Health)
+18-06-13 00:46:57    james         Portfolio edited: #3 (Health)
+18-06-13 00:47:34    james         Portfolio edited: #3 (Health)
+18-06-13 01:28:14    james         Portfolio edited: #3 (Health)
+18-06-13 01:28:29    james         Portfolio edited: #3 (Health)
+18-06-13 01:29:03    james         Portfolio edited: #3 (Health)
+18-06-13 01:30:20    james         Portfolio edited: #3 (Health)
+18-06-13 01:30:47    james         Portfolio edited: #3 (Health)
+18-06-13 01:30:59    james         Portfolio edited: #3 (Health)
+18-06-13 01:37:17    james         Portfolio edited: #3 (Health)
+18-06-13 01:40:50    james         Portfolio edited: #3 (Health)
+18-06-13 01:41:00    james         Portfolio edited: #3 (Health)
+18-06-13 01:41:08    james         Portfolio edited: #3 (Health)
+18-06-13 01:43:19    james         Portfolio edited: #3 (Health)
+18-06-13 01:53:53    james         Portfolio edited: #3 (Health)
+18-06-13 01:53:59    james         Portfolio edited: #3 (Health)
+18-06-13 01:54:47    james         Portfolio edited: #3 (Health)
+18-06-13 02:07:44    james         Portfolio edited: #3 (Health)
+18-06-13 02:11:05    james         Portfolio edited: #3 (Health)
+18-06-13 02:11:26    james         Portfolio edited: #3 (Health)
+18-06-13 02:11:34    james         Portfolio edited: #3 (Health)
+18-06-13 02:11:52    james         Portfolio edited: #3 (Health)
+18-06-13 02:13:46    james         Portfolio edited: #3 (Health)
+18-06-13 02:13:55    james         Portfolio edited: #3 (Health)
+18-06-13 02:14:06    james         Portfolio edited: #3 (Health)
+18-06-13 02:14:15    james         Portfolio edited: #3 (Health)
+18-06-13 12:07:44    rachel        logged in.
+18-06-13 12:08:57    rachel        Portfolio edited: #2 (Education)
+18-06-13 12:09:33    rachel        Portfolio edited: #1 (Conservation and Restoration)
+18-06-13 12:09:53    rachel        Portfolio edited: #5 (Residential)
+18-06-13 12:11:16    rachel        Portfolio edited: #10 (Commercial)
+18-06-13 12:11:37    rachel        Portfolio edited: #2 (Education)
+18-06-13 12:15:39    rachel        logged out.
+18-06-13 13:56:54    james         logged in.
+18-06-13 13:57:07    james         Portfolio edited: #3 (Health)
+18-06-13 13:58:12    james         Portfolio edited: #3 (Health)
+18-06-13 13:58:25    james         Portfolio edited: #3 (Health)
+10-07-13 15:20:40    rachel        logged in.
+10-07-13 16:01:05    rachel        logged out.
+11-07-13 11:14:16    rachel        logged in.
+11-07-13 11:15:02    rachel        logged out.
+11-07-13 12:09:22    rachel        logged in.
+11-07-13 12:14:43    rachel        logged out.
+11-07-13 12:19:03    rachel        logged in.
+11-07-13 12:19:37    rachel        Small Image added: #45 (sm_weeley_crem.jpg)
+11-07-13 12:21:37    rachel        News Item added: #29
+11-07-13 12:21:49    rachel        logged out.
+11-07-13 12:22:29    rachel        logged in.
+11-07-13 12:23:11    rachel        logged out.
+23-07-13 12:26:12    rachel        logged in.
+23-07-13 12:27:51    rachel        News Item added: #30
+23-07-13 12:28:27    rachel        News Item edited: #30
+23-07-13 12:29:20    rachel        logged out.
+23-07-13 12:29:35    rachel        logged in.
+23-07-13 12:30:20    rachel        News Item edited: #30
+23-07-13 12:30:24    rachel        logged out.
